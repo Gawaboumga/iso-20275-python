@@ -1,0 +1,184 @@
+266
+
+Abbreviations Local language
+(i) the district name of the registry district in which the property is located;(ii) the words Condominium Corporation; and (iii) the abbreviation No. ###
+
+Converted to:
+Condominium Corporation;No.
+
+269
+
+Entity Legal Form name Local name
+A company formed under the Companies Act may seek designation as a Private Investment Holding Company
+
+Convert to:
+Private Investment Holding Company
+
+Entity Legal Form name Transliterated name (per ISO 01.140.10)
+A company formed under the Companies Act may seek designation as a Private Investment Holding Company
+
+Convert to:
+Private Investment Holding Company
+
+270
+
+Abbreviations Local language
+limited company and limited by guarantee = Limited, Limitée, Ltd., Ltée, Incorporated, Inc.
+
+Converted to:
+limited company;Limited by guarantee;Limited;Limitée;Ltd.;Ltée;Incorporated;Inc.
+
+271
+
+Abbreviations Local language
+Society, Association, some other term suggesting plurality of persons - not limited, incorporated, or company
+
+Converted to:
+Society;Association
+
+273
+
+Entity Legal Form name Local name
+A company formed under the Companies Act may seek designation as a Community Interest Company (a hybrid structure having characteristics of both for profit and non-profit entities)
+
+Convert to:
+Community Interest Company
+
+Entity Legal Form name Transliterated name (per ISO 01.140.10)
+A company formed under the Companies Act may seek designation as a Community Interest Company (a hybrid structure having characteristics of both for profit and non-profit entities)
+
+Convert to:
+Community Interest Company
+
+274
+
+Abbreviations Local language
+Unlimited company = Company, Co., Corporation, Corp., U.L.C., ULC
+
+Converted to:
+Company;Co.;Corporation;Corp.;U.L.C.;ULC
+
+275
+
+Abbreviations Local language
+limited liability partnership, LLP for limited liability partnership
+
+Converted to:
+LLP;L.L.P.;LLP.
+
+276
+
+Abbreviations Local language
+no legal element for most
+
+Converted to:
+
+
+277
+
+Abbreviations Local language
+limited company and limited by guarantee = Limited, Limitée, Ltd., Ltée, Incorporated, Inc.
+
+Converted to:
+limited company;Limited by guarantee;Limited;Limitée;Ltd.;Ltée;Incorporated;Inc.
+
+278
+
+Abbreviations Local language
+no legal element for most
+
+Converted to:
+
+307
+
+Abbreviations Local language
+No legal element but must use the name format: Trustees of (giving distinguishing name and adding immediately thereafter the following words), a religious society, in the (city, town, village, or rural municipality) of (name of municipality), in the Provinceof Manitoba OR « Fiduciaires de (inscrire un nom distinctif), communauté religieuse, en la (le) (cité, ville, village oumunicipalité rurale) de (nom de la municipalité),province du Manitoba ».
+
+Converted to:
+Trustees;Fiduciaires;Manitoba
+
+310
+
+Abbreviations Local language
+Limited Liability Partnership or LLP; or in french “Société à Responabilité Limitée” or “s.r.l.”
+
+Converted to:
+Limited Liability Partnership;LLP;Société à Responabilité Limitée;s.r.l.;srl
+
+311
+
+Abbreviations Local language
+Include the word Cooperative, Co-operative, Coopérative, or Pool, Co-op; plus Limited, limitée, incorporated, incorporée, Ltd., ltée, or Inc..
+
+Converted to:
+Cooperative;Co-operative;Coopérative;Pool;Co-op;Limited;limitée;incorporated;incorporée;Ltd.;ltée;Inc;Inc.
+
+312
+
+Abbreviations Local language
+No legal element but must use the name format: The Ukrainian Catholic Parish of (giving the distinguishing name of the parish). or « La Paroisse catholique ukrainienne de (inscrire le nom distinctif de la paroisse).
+
+Converted to:
+Ukrainian Catholic Parish;Paroisse catholique ukrainienne
+
+313
+
+Abbreviations Local language
+Must include: the name of the land titles district, the words Condominium Corporation, and No. together with the next available consecutive number for a condminium corp. registered in that land titles district
+
+Converted to:
+Condominium Corporation;No.
+
+315
+
+Abbreviations Local language
+Limited Partnership or LP, OR SOCIETE EN COMMANDITE, if desired (not mandatory)
+
+Converted to:
+Limited Partnership;LP;SOCIETE EN COMMANDITE
+
+318
+
+Abbreviations Local language
+Must include the word credit union or caisse populaire; plus Limited, or Ltd. (credit union); limitée or ltée (caisse populaire)
+
+Converted to:
+Crédit union;credit union;caisse populaire;Limited;Ltd.;limitée;ltée.;ltée
+
+322
+
+Abbreviations Local language
+Must include the words credit union or the words caisse populaire in its name and the word Limited or Limitee or the abbreviation Ltd. or Ltee as the last word of that credit union's name.
+
+Converted to:
+Crédit union;credit union;caisse populaire;Limited;Ltd.;limitée;ltée.;ltée
+
+324
+
+Abbreviations Local language
+Name must end with Condominium Corporation
+
+Converted to:
+Condominium Corporation
+
+1133
+
+Entity Legal Form name Local name
+Forening/lag/innretning (eller bare forening?)
+
+Convert to:
+Forening/lag/innretning (eller bare forening?)
+
+Entity Legal Form name Transliterated name (per ISO 01.140.10)
+Forening/lag/innretning (eller bare forening?)
+
+Convert to:
+Forening/lag/innretning (eller bare forening?)
+
+1743
+
+Abbreviations Local language
+Depends on the company type when formed under other legislation
+
+Converted to:
+

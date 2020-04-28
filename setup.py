@@ -34,7 +34,7 @@ setup(
     license='MIT',
     author='Youri Hubaut',
     packages=find_packages(),
-    package_data={'iso20275': ['ISO-20275 - 2017-11-30.csv', 'Cleaned - ISO-20275 - 2017-11-30.csv']},
+    package_data={'iso20275': ['ISO-20275 - 2019-11-06.csv', 'Cleaned - ISO-20275 - 2019-11-06.csv']},
     url='https://github.com/Gawaboumga/iso-20275-python',
     keywords='internationalization i18n elf iso20275 entity legal types',
     install_requires=get_install_requirements(),

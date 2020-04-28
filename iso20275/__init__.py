@@ -2,7 +2,7 @@ import csv
 import os
 
 
-__version__ = 0, 0, 3
+__version__ = 0, 0, 4
 __all__ = 'Elf', 'OriginalElf',
 
 
@@ -119,8 +119,8 @@ def read_from_csv(filename, sep=','):
     return table
 
 
-original_codes = read_from_csv(os.path.join(os.path.dirname(__file__), 'ISO-20275 - 2017-11-30.csv'))
-codes = read_from_csv(os.path.join(os.path.dirname(__file__), 'Cleaned - ISO-20275 - 2017-11-30.csv'))
+original_codes = read_from_csv(os.path.join(os.path.dirname(__file__), 'ISO-20275 - 2019-11-06.csv'))
+codes = read_from_csv(os.path.join(os.path.dirname(__file__), 'Cleaned - ISO-20275 - 2019-11-06.csv'))
 
 
 class MetaA(type):

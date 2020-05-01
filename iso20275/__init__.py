@@ -7,13 +7,12 @@ __all__ = 'Elf', 'OriginalElf',
 
 
 class ElfEntry:
-    def __init__(self, elf, data):
-        self.__elf = elf
+    def __init__(self, data):
         self.__data = data
 
     @property
     def elf(self):
-        return self._ElfEntry__elf
+        return self._ElfEntry__data['elf']
 
     @property
     def country(self):
@@ -34,6 +33,14 @@ class ElfEntry:
     @property
     def local_name(self):
         return self._ElfEntry__data['local_name']
+
+    @property
+    def language(self):
+        return self._ElfEntry__data['language']
+
+    @property
+    def language_code(self):
+        return self._ElfEntry__data['language_code']
 
     @property
     def transliterated_name(self):
@@ -67,6 +74,10 @@ class ElfEntry:
     def reason(self):
         return self._ElfEntry__data['reason']
 
+    @classmethod
+    def labels(cls):
+        return tuple((k for k, v in cls.__dict__.items() if isinstance(v, property)))
+
     def __str__(self):
         return self.elf + ': ' + self.local_name
 
@@ -91,31 +102,17 @@ class ElfEntries:
 
 def read_from_csv(filename, sep=','):
     table = {}
+    columns = ElfEntry.labels()
     with open(filename, 'r', encoding='utf-8') as csvfile:
         next(csvfile)
         spamreader = csv.reader(csvfile, delimiter=',', quotechar='"', strict=True)
         for tokens in spamreader:
-            data = {
-                'country': tokens[1],
-                'alpha2': tokens[2],
-                'jurisdiction': tokens[3],
-                'alpha2_2': tokens[4],
-                'local_name': tokens[5],
-                'language': tokens[6],
-                'language_code': tokens[7],
-                'transliterated_name': tokens[8],
-                'local_abbreviations': tokens[9],
-                'transliterated_abbreviations': tokens[10],
-                'creation_date': tokens[11],
-                'status': tokens[12],
-                'modification': tokens[13],
-                'modification_date': tokens[14],
-                'reason': tokens[15],
-            }
-            if tokens[0] in table:
-                table[tokens[0]].append(ElfEntry(tokens[0], data))
+            row = dict(zip(columns, tokens))
+            code = row["elf"]
+            if code in table:
+                table[code].append(ElfEntry(row))
             else:
-                table[tokens[0]] = [ElfEntry(tokens[0], data)]
+                table[code] = [ElfEntry(row)]
     return table
 
 

@@ -1,6 +1,7 @@
 import csv
 import os
-
+import re
+import pathlib
 
 __version__ = 0, 0, 4
 __all__ = 'Elf', 'OriginalElf',
@@ -89,9 +90,10 @@ class ElfEntries:
         return len(self.__line)
 
 
-def read_from_csv(filename, sep=','):
+def read_from_csv(filepath:pathlib.Path, sep=','):
+    "read CSV file at a given path"
     table = {}
-    with open(filename, 'r', encoding='utf-8') as csvfile:
+    with filepath.open('r', encoding='utf-8') as csvfile:
         next(csvfile)
         spamreader = csv.reader(csvfile, delimiter=',', quotechar='"', strict=True)
         for tokens in spamreader:
@@ -119,8 +121,31 @@ def read_from_csv(filename, sep=','):
     return table
 
 
-original_codes = read_from_csv(os.path.join(os.path.dirname(__file__), 'ISO-20275 - 2019-11-06.csv'))
-codes = read_from_csv(os.path.join(os.path.dirname(__file__), 'Cleaned - ISO-20275 - 2019-11-06.csv'))
+rgx = re.compile(r"(?i)^(?P<c>Cleaned)?[ -_]*ISO-20275[ -_]*(?P<t>\d{4}-\d{2}-\d{2})\.csv$")
+
+def get_csv_paths(newest=None, cleaned=None, timestamp=None):
+    """get provided csv file paths, optionally just newest and/or
+    cleaned only and/or ones with given timestamp"""
+
+    csvpaths = pathlib.Path(__file__).resolve().parent.glob('*.csv')
+    tested = ((re.match(rgx, csvpath.name), csvpath) for csvpath in csvpaths)
+    results = ((m.group("c"), m.group("t"), csvpath) for m, csvpath in tested if m)
+
+    if cleaned is True:
+       results = (r for r in results if r[0])
+    elif cleaned is False:
+       results = (r for r in results if not r[0])
+    if timestamp:
+       results = (r for r in results if r[1] == timestamp)
+    if newest:
+       results = sorted(results, key=lambda r: r[1], reverse=True)
+       results = (results[0],) if cleaned else results[:2]
+
+    return tuple((r[-1] for r in results))
+
+
+original_codes = read_from_csv(get_csv_paths(newest=True, cleaned=False)[0])
+codes = read_from_csv(get_csv_paths(newest=True, cleaned=True)[0])
 
 
 class MetaA(type):

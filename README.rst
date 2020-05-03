@@ -67,6 +67,7 @@ which version you would like to use explicitly.
 
 .. code:: python
 
+    from iso20275 import ELF
     len(Elf['254M']) # 2 entries for this specific entity.
     Elf['254M'][0].local_name # '私人股份有限公司' for the Chinese entry.
     Elf['254M'][1].local_name # Private company limited by shares for the English entry.
@@ -80,7 +81,8 @@ which version you would like to use explicitly.
 
     # You can access to both version of the dataset, a normalized one and the original. Observe the Co-opLtd.
     Elf['6W6X'][0].local_abbreviations # "Co-operative Limited;Cooperative Limited;Co-op Limited;Coop Limited;Co-operative Ltd.;Cooperative Ltd.;Co-op Ltd.;Coop Ltd.;Co-operative;Cooperative;Co-op;Coop"
-    OriginalElf['6W6X'][0].local_abbreviations # "Co-operative Limited;Cooperative Limited;Co-op Limited;Coop Limited;Co-operative Ltd.;Cooperative Ltd.;Co-opLtd.;Coop Ltd.;Co-operative;Cooperative;Co-op;Coop"
+    Elf.load(newest=True, cleaned=False) # We load the official dataset
+    Elf['6W6X'][0].local_abbreviations # "Co-operative Limited;Cooperative Limited;Co-op Limited;Coop Limited;Co-operative Ltd.;Cooperative Ltd.;Co-opLtd.;Coop Ltd.;Co-operative;Cooperative;Co-op;Coop"
 
 Differences
 -----------

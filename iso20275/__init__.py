@@ -3,7 +3,7 @@ import os
 import re
 import pathlib
 
-__version__ = 0, 0, 4
+__version__ = 0, 0, 5
 __all__ = 'Elf', 'OriginalElf',
 
 

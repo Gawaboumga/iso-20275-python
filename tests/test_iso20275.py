@@ -1,8 +1,35 @@
-from iso20275 import Elf
+from iso20275 import Elf, get_csv_paths
 import unittest
+import csv
 
 
 class TestElf(unittest.TestCase):
+
+    def setUp(self):
+        Elf.load(newest=True, cleaned=True)
+
+    def test_dispatched_readers_work_same(self):
+        "make sure single-dispatched implementation works"
+
+        # items from default reading
+        items1 = Elf.items()
+
+        # construct & use a reader & get items from it
+        path = get_csv_paths(newest=True, cleaned=True)[0]
+        with path.open('r', newline='', encoding='utf-8') as csvfile:
+            reader = csv.reader(csvfile, delimiter=',', quotechar='"', strict=True)
+            next(reader)
+            Elf.load(source=reader)
+        items2 = Elf.items()
+
+        # check results are same
+        i1 = dict(items1)
+        i2 = dict(items2)
+        self.assertEqual(i1.keys(), i2.keys())
+        for code in i1:
+            names1 = [e.local_name for e in i1[code]]
+            names2 = [e.local_name for e in i2[code]]
+            self.assertEqual(names1, names2)
 
     def test_member_name_must_be_equal_to_elf_code(self):
         for elf, values in Elf.items():

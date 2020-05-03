@@ -2,12 +2,28 @@ import csv
 import os
 import re
 import pathlib
+import collections
 
 __version__ = 0, 0, 5
 __all__ = 'Elf', 'OriginalElf',
 
 
-class ElfEntry:
+class OrderedProperties(type):
+    "metaclass for custom ordered properties access on Python 3.5 and earlier"
+
+    @classmethod
+    def __prepare__(mcs, name, bases):
+        "provide order-keeping support"
+        return collections.OrderedDict()
+
+    def __new__(cls, name, bases, classdict):
+        "inject a custom __properties__ magic method"
+        customclass = type.__new__(cls, name, bases, classdict)
+        customclass.__properties__ = tuple(k for k,v in classdict.items() if isinstance(v, property))
+        return customclass
+
+
+class ElfEntry(metaclass=OrderedProperties):
     def __init__(self, data):
         self.__data = data
 
@@ -75,9 +91,6 @@ class ElfEntry:
     def reason(self):
         return self._ElfEntry__data['reason']
 
-    @classmethod
-    def labels(cls):
-        return tuple((k for k, v in cls.__dict__.items() if isinstance(v, property)))
 
     def __str__(self):
         return self.elf + ': ' + self.local_name
@@ -104,7 +117,7 @@ class ElfEntries:
 def read_from_csv(filepath:pathlib.Path, sep=','):
     "read CSV file at a given path"
     table = {}
-    columns = ElfEntry.labels()
+    columns = ElfEntry.__properties__
     with filepath.open('r', encoding='utf-8') as csvfile:
         next(csvfile)
         spamreader = csv.reader(csvfile, delimiter=',', quotechar='"', strict=True)

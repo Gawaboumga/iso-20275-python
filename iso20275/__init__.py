@@ -5,7 +5,7 @@ import pathlib
 import collections
 
 __version__ = 0, 0, 6
-__all__ = 'Elf', 'OriginalElf',
+__all__ = 'Elf',
 
 
 class OrderedProperties(type):
@@ -113,6 +113,9 @@ class ElfEntries:
     def __len__(self):
         return len(self.__line)
 
+    def __iter__(self):
+        return self
+
 
 def read_from_csv(filepath:pathlib.Path, sep=','):
     "read CSV file at a given path"
@@ -154,35 +157,33 @@ def get_csv_paths(newest=None, cleaned=None, timestamp=None):
     return tuple((r[-1] for r in results))
 
 
-original_codes = read_from_csv(get_csv_paths(newest=True, cleaned=False)[0])
-codes = read_from_csv(get_csv_paths(newest=True, cleaned=True)[0])
+class MetaElf(type):
 
+    def __new__(cls, name, bases, clsdct):
+        elfclass = type.__new__(cls, name, bases, clsdct)
 
-class MetaA(type):
+        # by default, the latest cleaned CSV source is used
+        elfclass._codes = read_from_csv(get_csv_paths(newest=True, cleaned=True)[0])
+        return elfclass
+
     def __getitem__(cls, key):
-        return ElfEntries(codes[key])
+        return ElfEntries(cls._codes[key])
 
     def __len__(cls):
-        return len(codes)
+        return len(cls._codes)
 
+    def __iter__ (self):
+        return self
+
+
+class Elf(object, metaclass=MetaElf):
+
+    @classmethod
+    def load(cls, newest=None, cleaned=None, timestamp=None, csvpath:pathlib.Path=None):
+        "load a particular CSV source (newest/cleaned/timestamp) or a custom file"
+        pth = csvpath or get_csv_paths(newest=newest, cleaned=cleaned, timestamp=timestamp)[0]
+        cls._codes = read_from_csv(pth)
+
+    @classmethod
     def items(cls):
-        return codes.items()
-
-
-class Elf(object, metaclass=MetaA):
-    pass
-
-
-class MetaB(type):
-    def __getitem__(cls, key):
-        return ElfEntries(original_codes[key])
-
-    def __len__(cls):
-        return len(original_codes)
-
-    def items(cls):
-        return original_codes.items()
-
-
-class OriginalElf(object, metaclass=MetaB):
-    pass
+        return cls._codes.items()

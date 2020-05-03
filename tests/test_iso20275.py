@@ -1,4 +1,4 @@
-from iso20275 import Elf, OriginalElf
+from iso20275 import Elf
 import unittest
 
 
@@ -33,7 +33,8 @@ class TestElf(unittest.TestCase):
 
     def test_difference_cleaned_and_original(self):
         self.assertEqual(Elf['6W6X'][0].local_abbreviations, 'Co-operative Limited;Cooperative Limited;Co-op Limited;Coop Limited;Co-operative Ltd.;Cooperative Ltd.;Co-op Ltd.;Coop Ltd.;Co-operative;Cooperative;Co-op;Coop')
-        self.assertEqual(OriginalElf['6W6X'][0].local_abbreviations, 'Co-operative Limited;Cooperative Limited;Co-op Limited;Coop Limited;Co-operative Ltd.;Cooperative Ltd.;Co-opLtd.;Coop Ltd.;Co-operative;Cooperative;Co-op;Coop')
+        Elf.load(newest=True, cleaned=False)
+        self.assertEqual(Elf['6W6X'][0].local_abbreviations, 'Co-operative Limited;Cooperative Limited;Co-op Limited;Coop Limited;Co-operative Ltd.;Cooperative Ltd.;Co-opLtd.;Coop Ltd.;Co-operative;Cooperative;Co-op;Coop')
 
     def test_correct_csv_parsing(self):
         self.assertEqual(Elf['C7TI'][0].local_name, 'Ассоциации (союзы) садоводческих, огороднических и дачных некоммерческих объединений')

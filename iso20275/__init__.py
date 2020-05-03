@@ -104,6 +104,7 @@ class ElfEntries:
 def read_from_csv(filepath:pathlib.Path, sep=','):
     "read CSV file at a given path"
     table = {}
+    columns = ElfEntry.labels()
     with filepath.open('r', encoding='utf-8') as csvfile:
         next(csvfile)
         spamreader = csv.reader(csvfile, delimiter=',', quotechar='"', strict=True)

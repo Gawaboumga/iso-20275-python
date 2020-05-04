@@ -1,8 +1,11 @@
 import csv
-import os
 import re
-import pathlib
-import collections
+from pathlib import Path
+from collections import OrderedDict
+from collections.abc import Iterable
+from typing import Sequence, Union
+from functools import singledispatch
+
 
 __version__ = 0, 0, 7
 __all__ = 'Elf',
@@ -14,7 +17,7 @@ class OrderedProperties(type):
     @classmethod
     def __prepare__(mcs, name, bases):
         "provide order-keeping support"
-        return collections.OrderedDict()
+        return OrderedDict()
 
     def __new__(cls, name, bases, classdict):
         "inject a custom __properties__ magic method"
@@ -117,30 +120,39 @@ class ElfEntries:
         return self
 
 
-def read_from_csv(filepath:pathlib.Path, sep=','):
-    "read CSV file at a given path"
+@singledispatch
+def read_entries(source:Iterable):
+    "produce list of ElfEntry items from a source, by default an iterator"
     table = {}
     columns = ElfEntry.__properties__
-    with filepath.open('r', encoding='utf-8') as csvfile:
-        next(csvfile)
-        spamreader = csv.reader(csvfile, delimiter=',', quotechar='"', strict=True)
-        for tokens in spamreader:
-            row = dict(zip(columns, tokens))
-            code = row["elf"]
-            if code in table:
-                table[code].append(ElfEntry(row))
-            else:
-                table[code] = [ElfEntry(row)]
+
+    for tokens in source:
+        row = dict(zip(columns, tokens))
+        entry = ElfEntry(row)
+        if entry.elf in table:
+            table[entry.elf].append(entry)
+        else:
+            table[entry.elf] = [entry]
     return table
+
+
+@read_entries.register(Path)
+def read_entries_from_csvpath(source:Path):
+    "produce list of ElfEntry items from a filesystem Path pointing to a CSV file"
+    with source.open('r', encoding='utf-8') as csvfile:
+        next(csvfile)
+        reader = csv.reader(csvfile, delimiter=',', quotechar='"', strict=True)
+        entries = read_entries(reader)
+    return entries
 
 
 rgx = re.compile(r"(?i)^(?P<c>Cleaned)?[ -_]*ISO-20275[ -_]*(?P<t>\d{4}-\d{2}-\d{2})\.csv$")
 
-def get_csv_paths(newest=None, cleaned=None, timestamp=None):
+def get_csv_paths(newest=None, cleaned=None, timestamp=None) -> Sequence[Path]:
     """get provided csv file paths, optionally just newest and/or
     cleaned only and/or ones with given timestamp"""
 
-    csvpaths = pathlib.Path(__file__).resolve().parent.glob('*.csv')
+    csvpaths = Path(__file__).resolve().parent.glob('*.csv')
     tested = ((re.match(rgx, csvpath.name), csvpath) for csvpath in csvpaths)
     results = ((m.group("c"), m.group("t"), csvpath) for m, csvpath in tested if m)
 
@@ -163,7 +175,7 @@ class MetaElf(type):
         elfclass = type.__new__(cls, name, bases, clsdct)
 
         # by default, the latest cleaned CSV source is used
-        elfclass._codes = read_from_csv(get_csv_paths(newest=True, cleaned=True)[0])
+        elfclass._codes = read_entries(get_csv_paths(newest=True, cleaned=True)[0])
         return elfclass
 
     def __getitem__(cls, key):
@@ -179,10 +191,11 @@ class MetaElf(type):
 class Elf(object, metaclass=MetaElf):
 
     @classmethod
-    def load(cls, newest=None, cleaned=None, timestamp=None, csvpath:pathlib.Path=None):
+    def load(cls, newest=None, cleaned=None, timestamp=None, source:Union[Iterable,Path]=None):
         "load a particular CSV source (newest/cleaned/timestamp) or a custom file"
-        pth = csvpath or get_csv_paths(newest=newest, cleaned=cleaned, timestamp=timestamp)[0]
-        cls._codes = read_from_csv(pth)
+        if source is None:
+            source = get_csv_paths(newest=newest, cleaned=cleaned, timestamp=timestamp)[0]
+        cls._codes = read_entries(source)
 
     @classmethod
     def items(cls):

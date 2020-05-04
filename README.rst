@@ -170,5 +170,5 @@ One can found the following characters, in addition to the previously described,
 - ``（`` U+FF08 : FULLWIDTH LEFT PARENTHESIS - Converted into ``(``.
 - ``）`` U+FF09 : FULLWIDTH RIGHT PARENTHESIS - Converted into ``)``.
 
-Written by `Youri Hubaut <https://github.com/Gawaboumga>`__.
+Written by `Youri Hubaut <https://github.com/Gawaboumga>`__ and `Petri Savolainen <https://github.com/petri>`__.
 Distributed under MIT license.

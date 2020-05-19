@@ -37,8 +37,8 @@ AM:
 "Armenia","AM","","","Open Joint Stock Company","English","en","Open Joint Stock Company","O.J.S.C.",""
 
 AO:
-"Angola","AO","","","Sociedade por quotas de responsabilidade limitada","Portuguese","pt","Sociedade por quotas de responsabilidade limitada","Lda.",""
-"Angola","AO","","","Sociedade anónima","Portuguese","pt","Sociedade anonima","S.A.;S.A.R.L.",""
+"Angola","AO","","","Sociedade por quotas de responsabilidade limitada","Portuguese","pt","Sociedade por quotas de responsabilidade limitada","S.A.R.L.;Lda.",""
+"Angola","AO","","","Sociedade anónima","Portuguese","pt","Sociedade anonima","S.A.",""
 "Angola","AO","","","Sociedade em Nome Coletivo","Portuguese","pt","Sociedade em Nome Coletivo","S.N.C.",""
 "Angola","AO","","","Sociedade em Comandita","Portuguese","pt","Sociedade em Comandita","",""
 
@@ -228,3 +228,138 @@ BZ:
 "Belize","BZ","","","International Business Corporation","English","en","International Business Corporation","I.B.C.;IBC",""
 "Belize","BZ","","","Limited Liability Company","English","en","Limited Liability Company","L.L.C.",""
 "Belize","BZ","","","Trust","English","en","Trust","Trust;Trustee",""
+
+CD:
+"Democratic Republic of the Congo","CD","","","Société à responsabilité limitée","French","fr","Société privée à responsabilité limitée","SARL",""
+"Democratic Republic of the Congo","CD","","","Société privée à responsabilité limitée","French","fr","Société privée à responsabilité limitée","SPRL",""
+"Democratic Republic of the Congo","CD","","","Société anonyme","French","fr","Société anonyme","S.A.",""
+"Democratic Republic of the Congo","CD","","","Société par Action Simplifiée","French","fr","Société par Action Simplifiée","S.A.S.",""
+
+CF:
+"Central African Republic","CF","","","Société à responsabilité limitée","French","fr","Société privée à responsabilité limitée","SARL",""
+"Central African Republic","CF","","","Société anonyme","French","fr","Société anonyme","S.A.",""
+"Central African Republic","CF","","","Central African Republic","English","en","Central African Republic","Pty. Ltd.",""
+
+CG:
+"Congo","CG","","","Société à responsabilité limitée","French","fr","Société privée à responsabilité limitée","SARL",""
+"Congo","CG","","","Société anonyme","French","fr","Société anonyme","S.A.",""
+"Congo","CG","","","Société privée à responsabilité limitée","French","fr","Société privée à responsabilité limitée","SPRL",""
+"Congo","CG","","","Société à responsabilité limitée unipersonnelle","French","fr","Société privée à responsabilité limitée unipersonnelle","SARLU",""
+"Congo","CG","","","Société par Action Simplifiée","French","fr","Société par Action Simplifiée","S.A.S.",""
+"Congo","CG","","","Limited Liability Company","English","en","Limited Liability Company","L.L.C.",""
+
+CI:
+"Côte d'Ivoire","CI","","","Société à responsabilité limitée","French","fr","Société privée à responsabilité limitée","SARL",""
+"Côte d'Ivoire","CI","","","Société anonyme","French","fr","Société anonyme","S.A.",""
+"Côte d'Ivoire","CI","","","Société à responsabilité limitée unipersonnelle","French","fr","Société privée à responsabilité limitée unipersonnelle","SARLU",""
+
+CL:
+"Chile","CL","","","Sociedad de responsabilidad limitada","Spanish","es","Sociedad de responsabilidad limitada","S.R.L.;Ltda.","L.L.C."
+"Chile","CL","","","Sociedad por Acciones","Spanish","es","Sociedad por Acciones","S.P.A.;Sp.A.",""
+"Chile","CL","","","Empresa Individual de Responsabilidad Limitada","Spanish","es","Empresa Individual de Responsabilidad Limitada","E.I.R.L.",""
+"Chile","CL","","","Sociedad anonima","Spanish","es","Sociedad anonima","S.A.",""
+"Chile","CL","","","Sociedad de Garantia Reciproca","Spanish","es","Sociedad de Garantia Reciproca","S.G.R.",""
+
+CM:
+"Cameroon","CM","","","Société à responsabilité limitée","French","fr","Société privée à responsabilité limitée","SARL",""
+"Cameroon","CM","","","Société anonyme","French","fr","Société anonyme","S.A.",""
+"Cameroon","CM","","","Société civile immobilière","French","fr","Société civile immobilière","S.C.I.",""
+"Cameroon","CM","","","Cooperative","French","fr","Cooperative","coop.",""
+
+CO:
+"Colombia","CO","","","Sociedad de responsabilidad limitada","Spanish","es","Sociedad de responsabilidad limitada","S.R.L.;Ltda.","L.L.C."
+"Colombia","CO","","","Sociedad por Acciones Simplificada","Spanish","es","Sociedad por Acciones Simplificada","S.A.S.",""
+"Colombia","CO","","","Cooperativa","Spanish","es","Cooperativa","coop.",""
+"Colombia","CO","","","Sociedad collectiva","Spanish","es","Sociedad collectiva","S.C.",""
+"Colombia","CO","","","Sociedad en comandita simple","Spanish","es","Sociedad en comandita simple","S. en C.S.;S. en C.",""
+"Colombia","CO","","","Sociedad en comandita por accionnes","Spanish","es","Sociedad en comandita por accionnes","S. en C.A.;S.C.A.",""
+"Colombia","CO","","","Empresa unipersonal","Spanish","es","Empresa unipersonal","E.U.",""
+
+CR:
+"Costa rica","CR","","","Sociedad anonima","Spanish","es","Sociedad anonima","S.A.",""
+"Costa rica","CR","","","Sociedad de responsabilidad limitada","Spanish","es","Sociedad de responsabilidad limitada","S.R.L.;Ltda.","L.L.C."
+"Costa rica","CR","","","Cooperativa a responsabilidad limitada","Spanish","es","Cooperativa a responsabilidad limitada","Cooperativa a R.L.;Cooperativa R.L.;C.R.L.",""
+
+CU:
+"Cuba","CU","","","Sociedad anonima","Spanish","es","Sociedad anonima","S.A.",""
+"Cuba","CU","","","Cooperativa","Spanish","es","Cooperativa","coop.",""
+"Cuba","CU","","","Sociedad limitada","Spanish","es","Sociedad limitada","S.L.",""
+
+CV:
+"Cabo Verde","CV","","","Sociedade por quotas de responsabilidade limitada","Portuguese","pt","Sociedade por quotas de responsabilidade limitada","S.A.R.L.;Lda.",""
+"Cabo Verde","CV","","","Sociedade anónima","Portuguese","pt","Sociedade anonima","S.A.",""
+
+CY:
+"Cyprus","CY","","","Company Limited","English","en","Company Limited","Ltd.;Co. Ltd.",""
+"Cyprus","CY","","","Public Limited Liability Companies","English","en","Public Limited Liability Companies","L.L.C.;P.L.C.",""
+
+CZ:
+"9HLU","Czech Republic","CZ","","","Společnost s ručením omezeným","Czech","cs","Společnost s ručením omezeným","S.R.O.;Spol. S.R.O.","Ltd."
+"6CQN","Czech Republic","CZ","","","Akciová společnost","Czech","cs","Akciová společnost","A.S.;Akc. Spol.","P.L.C."
+"CATU","Czech Republic","CZ","","","Spolek","Czech","cs","Spolek","Z.S.",""
+"9XDB","Czech Republic","CZ","","","Občanské sdružení","Czech","cs","Občanské sdružení","O.S.",""
+"5KU5","Czech Republic","CZ","","","Veřejná obchodní společnost","Czech","cs","Veřejná obchodní společnost","V.O.S.","G.P."
+"CD28","Czech Republic","CZ","","","Společnost komanditní","Czech","cs","Společnost komanditní","K.S.","L.P."
+"BL4B","Czech Republic","CZ","","","Obecně prospěšná společnost","Czech","cs","Obecně prospěšná společnost","O.P.S.",""
+"Czech Republic","CZ","","","živnost","Czech","cs","živnost","","S.P."
+"6FAI","Czech Republic","CZ","","","Státní podnik","Czech","cs","Státní podnik","S.P.",""
+
+DJ:
+"Djibouti","DJ","","","Société à responsabilité limitée","French","fr","Société privée à responsabilité limitée","SARL",""
+"Djibouti","DJ","","","Free Zone Establishment","English","en","Free Zone Establishment","F.Z.E.",""
+"Djibouti","DJ","","","Free Zone Company","English","en","Free Zone Company","F.Z.C.;F.Z.Co.",""
+"Djibouti","DJ","","","Entreprise unipersonnelle à responsabilité limitée","French","fr","Entreprise unipersonnelle à responsabilité limitée","E.U.R.L.",""
+
+DK:
+"Denmark","DK","","","gensidigt selskab","Danish","da","gensidigt selskab","G/S",""
+"Denmark","DK","","","tværgående pensionskasse","Danish","da","tværgående pensionskasse","",""
+
+e/f ?
+sp/f ?
+
+DM:
+"Dominica","DM","","","Public Limited Liability Companies","English","en","Public Limited Liability Companies","L.L.C.;P.L.C."
+"Dominica","DM","","","International Business Corporation","English","en","International Business Corporation","I.B.C.;IBC",""
+
+DO:
+"Dominican Republic","DO","","Compañía por Acciones","Spanish","es","Compañía por Acciones","C. por A.;CXA",""
+"Dominican Republic","DO","","","Sociedad anonima","Spanish","es","Sociedad anonima","S.A.",""
+"Dominican Republic","DO","","","Sociedad por Acciones Simplificada","Spanish","es","Sociedad por Acciones Simplificada","S.A.S.",""
+"Dominican Republic","DO","","","Empresa Individual de Responsabilidad Limitada","Spanish","es","Empresa Individual de Responsabilidad Limitada","E.I.R.L.",""
+"Dominican Republic","DO","","","Sociedad de responsabilidad limitada","Spanish","es","Sociedad de responsabilidad limitada","S.R.L.;Ltda.","L.L.C."
+"Dominican Republic","DO","","","Sociedad en comandita simple","Spanish","es","Sociedad en comandita simple","S. en C.S.;S. en C.",""
+
+DZ:
+"Algeria","DZ","","","Société à responsabilité limitée","French","fr","Société privée à responsabilité limitée","SARL",""
+"Algeria","DZ","","","Entreprise unipersonnelle à responsabilité limitée","French","fr","Entreprise unipersonnelle à responsabilité limitée","E.U.R.L.",""
+"Algeria","DZ","","","Société en nom collectif","French","fr","Société en nom collectif","S.N.C.",""
+"Algeria","DZ","","","Société par actions","French","fr","Société par actions","S.P.A.",""
+"Algeria","DZ","","","Société en commandité simple","French","fr","Société en commandité simple","S.C.S.";""
+
+EC:
+"Ecuador","EC","","","Sociedad anonima","Spanish","es","Sociedad anonima","S.A.",""
+"Ecuador","EC","","","Compania limitada","Spanish","es","Compania limitada","C.L.;C. Ltda.;Cia. Ltda.",""
+"Ecuador","EC","","","Compania anonima","Spanish","es","Compania anonima","C.A.",""
+"Ecuador","EC","","","Cooperativa","Spanish","es","Cooperativa","coop.",""
+
+EG:
+"Egypt","EG","","","Sharikat al-Mossahamah","Arabic","ar","Sharikat al-Mossahamah","S.A.E.",""
+"Egypt","EG","","","Sharikat Tadamun","Arabic","ar","Sharikat Tadamun","",""
+"Egypt","EG","","","Sharikat Tawsiat Basita","Arabic","ar","Sharikat Tawsiat Basita","",""
+"Egypt","EG","","","Sharikat Tawssiyah Belashom","Arabic","ar","Sharikat Tawssiyah Belashom","",""
+
+ER:
+"Eritrea","ER","","","Public Limited Liability Companies","English","en","Public Limited Liability Companies","L.L.C.;P.L.C.",""
+"Eritrea","ER","","","Share company","English","en","Share company","S.C.",""
+
+ES:
+"Spain","ES","","","Sociedad Anónima Deportiva","Spanish","es","Sociedad Anónima Deportiva","S.A.D.",""
+"Spain","ES","Catalonia","ES-CT","Sociedad Cooperativa Catalana Limitada","Spanish","es","Sociedad Cooperativa Catalana Limitada","S.C.C.L.",""
+"Spain","ES","","","Sociedad Limitada Unipersonal","Spanish","es","Sociedad Limitada Unipersonal","S.L.U.",""
+
+ET:
+"Ethiopia","ET","","","Private Limited Company","English","en","Private Limited Company","PLC;Pvt. Ltd. Co.",""
+"Ethiopia","ET","","","Share company","English","en","Share company","S.C.",""
+"Ethiopia","ET","","","Public enterprises","English","en","Public enterprises","P.E.",""
+"Ethiopia","ET","","","Public corporation","English","en","Public corporation","P.C.",""
+"Ethiopia","ET","","","Cooperative societies","English","en","Cooperative societies","C.S.",""

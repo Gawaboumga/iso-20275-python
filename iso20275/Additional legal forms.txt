@@ -363,3 +363,84 @@ ET:
 "Ethiopia","ET","","","Public enterprises","English","en","Public enterprises","P.E.",""
 "Ethiopia","ET","","","Public corporation","English","en","Public corporation","P.C.",""
 "Ethiopia","ET","","","Cooperative societies","English","en","Cooperative societies","C.S.",""
+
+FJ:
+"Fidji","FI","","","Private Limited Company","English","en","Private Limited Company","Pte. Ltd.;Ltd.",""
+"Fidji","FI","","","Trust","English","en","Trust","Trust;Trustee",""
+
+FM:
+"Micronesia","FM","","","Private Limited Company","English","en","Private Limited Company","Ltd.",""
+
+FR:
+"France","FR","","","Entreprise individuelle","French","fr","Entreprise individuelle","E.I.",""
+"France","FR","","","Entreprise individuelle à responsabilité limitée","French","fr","Entreprise individuelle à responsabilité limitée","E.I.R.L.",""
+"France","FR","","","Société civile d'exploitation agricole","French","fr","Société civile d'exploitation agricole","S.C.E.A.",""
+"France","FR","","","Société civile d'exploitation viticole","French","fr","Société civile d'exploitation viticole","S.C.E.V.",""
+"France","FR","","","Société d'exercice libéral à responsabilité limitée","French","fr","Société d'exercice libéral à responsabilité limitée","SELARL",""
+"France","FR","","","Société civile immobilière de construction vente","French","fr","Société civile immobilière de construction vente","S.C.I.C.V.",""
+"France","FR","","","Société civile de construction vente","French","fr","Société civile de construction vente","S.C.C.V.",""
+"France","FR","","","Auto-entrepreneur","French","fr","Auto-entrepreneur","A.E.",""
+
+"LARO","France","FR","","","Société par actions simplifiée à associé unique;société par actions simplifiée unipersonnelle","French","fr","Société par actions simplifiée à associé unique;société par actions simplifiée unipersonnelle","S.A.S.U.","","2017-11-30","ACTV","","",""
+"R0B6","France","FR","","","Groupement d'intérêt économique (GIE)","French","fr","Groupement d'intérêt économique (GIE)","G.I.E.","","2017-11-30","ACTV","","",""
+
+GA:
+"Gabon","GA","","","Société anonyme","French","fr","Société anonyme","S.A.",""
+"Gabon","GA","","","Société à responsabilité limitée","French","fr","Société à responsabilité limitée","S.A.R.L.",""
+"Gabon","GA","","","Société unipersonnelle à responsabilité limitée","French","fr","Société unipersonnelle à responsabilité limitée","S.U.A.R.L.",""
+
+GB:
+"2092","7T8N","United Kingdom","GB","","","Charitable Incorporated Organisation","English","en","Charitable Incorporated Organisation","C.I.O.","","2019-07-05","ACTV","","",""
+"2102","FVGZ","United Kingdom","GB","","","Industrial and Provident Society","English","en","Industrial and Provident Society","I.P.S.","","2019-07-05","ACTV","","",""
+
+GD:
+"Grenada","GD","","","Sociedad Limitada","Spanish","es","Sociedad Limitada","S.L.;Ltda.",""
+
+GE:
+"Georgia","GE","","","Joint Stock Company","English","en","Joint Stock Company","J.S.C.",""
+
+shps ?
+asotsiatsia ?
+gia ?
+lia ?
+
+GH:
+"Ghana","GH","","","Trust","English","en","Trust","Trust;Trustee",""
+
+GI:
+"Gibraltar","GI","","","Protected Cell Company","English","en","Protected Cell Company","P.C.C.",""
+
+GM:
+"Greenland","GM","","","Private Limited Company","English","en","Private Limited Company","Ltd.",""
+"Greenland","GM","","","Trust","English","en","Trust","Trust;Trustee",""
+
+GN:
+"Guinea","GN","","","Société à responsabilité limitée","French","fr","Société à responsabilité limitée","S.A.R.L.",""
+"Guinea","GN","","","Société anonyme","French","fr","Société anonyme","S.A.",""
+"Guinea","GN","","","Société à responsabilité limitée unipersonnelle","French","fr","Société à responsabilité limitée unipersonnelle","S.A.R.L.U.",""
+
+GQ:
+"Equatorial Guinea","GQ","","","Sociedad Anònima","Spanish","es","Sociedad Anonima","S.A.",""
+"Equatorial Guinea","GQ","","","Sociedad Limitada","Spanish","es","Sociedad Limitada","S.L.;Ltda.",""
+"Equatorial Guinea","GQ","","","Sociedad de Responsabilidad Limitada","Spanish","es","Sociedad de Responsabilidad Limitada","S.L.;S.R.L.",""
+
+GR:
+"Greece","GR","","","Ομόρρυθμη Βιομηχανική Εμπορική Εταιρεία","Greek","el","Omórrithmi Viomichanikí Emborikí Etaireía","OBEE","OVEE"
+
+GT:
+"Guatemala","GT","","","Sociedad anonima","Spanish","es","Sociedad anonima","S.A.",""
+"Guatemala","GT","","","Sociedad collectiva","Spanish","es","Sociedad collectiva","S.C.",""
+"Guatemala","GT","","","Sociedad de responsabilidad limitada","Spanish","es","Sociedad de responsabilidad limitada","S.R.L.;Ltda.","L.L.C."
+"Guatemala","GT","","","Sociedad en comandita simple","Spanish","es","Sociedad en comandita simple","S. en C.S.;S. en C.",""
+"Guatemala","GT","","","Sociedad en comandita por accionnes","Spanish","es","Sociedad en comandita por accionnes","S. en C.A.;S.C.A.",""
+"Guatemala","GT","","","Sociedad de Emprendimiento","Spanish","es","Sociedad de Emprendimiento","S.E.",""
+
+GW:
+"Guinea-Bissau","GW","","","Sociedade por quotas de responsabilidade limitada","Portuguese","pt","Sociedade por quotas de responsabilidade limitada","S.A.R.L.;Lda.",""
+"Guinea-Bissau","GW","","","Sociedade anónima","Portuguese","pt","Sociedade anonima","S.A.",""
+
+GY:
+"Guyana","GY","","","Private Limited Company","English","en","Private Limited Company","PLC",""
+
+t/a ?
+t/as ?

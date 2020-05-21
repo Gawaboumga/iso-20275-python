@@ -444,3 +444,171 @@ GY:
 
 t/a ?
 t/as ?
+
+HN:
+"Honduras","HN","","","Sociedad Anónima","Spanish","es","Sociedad Anónima","S.A.",""
+"Honduras","HN","","","Sociedad Anónima de Capital Variable","Spanish","es","Sociedad Anónima","S.A. de C.V.;SA de CV",""
+"Honduras","HN","","","Sociedad de responsabilidad limitada","Spanish","es","Sociedad de responsabilidad limitada","S.R.L.;Ltda.",""
+"Honduras","HN","","","Sociedad de responsabilidad limitada de Capital Variable","Spanish","es","Sociedad de responsabilidad limitada de Capital Variable","S.R.L. de C.V.;S. de R.L. de C.V.;S de RL de CV",""
+
+HR:
+"Croatia","HR","","","Obiteljsko poljoprivredno gospodarstvo","Croatian","hr","Obiteljsko poljoprivredno gospodarstvo","O.P.G.",""
+
+HT:
+"Haiti","HT","","","Société anonyme","French","fr","Société anonyme","S.A.",""
+
+HR:
+"Hungary","HU","","","Egyéni vállalkozó;Egyéni cég","Hungarian","hu","Egyéni vállalkozó;Egyéni cég","E.V.;E.C.",""
+"Hungary","HU","","","Közös vállalat"","Hungarian","hu","Közös vállalat","K.V.","J.V."
+
+ID:
+"Indonesia","ID","","","Perseroan Terbatas","Indonesian","id","Perseroan Terbatas","P.T.",""
+"Indonesia","ID","","","Perseroan Terbatas Persero","Indonesian","id","Perseroan Terbatas Persero","",""
+
+"Indonesia","ID","","","Naamloze vennootschap","Dutch","nl","Naamloze vennootschap","N.V.",""
+"Indonesia","ID","","","Perseroan Terbatas Terbuka;Perseroan Terbuka","Indonesian","id","Perseroan Terbatas Terbuka;Perseroan Terbuka","P.T. T.B.K.;PT TBK",""
+
+"Indonesia","ID","","","Commanditaire vennootschap","Dutch","nl","Commanditaire vennootschap","C.V.",""
+"Indonesia","ID","","","Perusahaan Komanditer;Persekutuan Komanditer","Indonesian","id","Perusahaan Komanditer;Persekutuan Komanditer","",""
+
+"Indonesia","ID","","","Usaha Dagang","Indonesian","id","Usaha Dagang","U.D.",""
+"Indonesia","ID","","","Perusahaan Dagang","Indonesian","id","Perusahaan Dagang","P.D.",""
+
+"Indonesia","ID","","","Perusahaan Daerah","Indonesian","id","Perusahaan Daerah","P.D.",""
+"Indonesia","ID","","","Perusahaan Umum Daerah","Indonesian","id","Perusahaan Umum Daerah","Perumda",""
+
+"Indonesia","ID","","","Yayasan","Indonesian","id","Yayasan","",""
+"Indonesia","ID","","","Vennootschap onder firma vennootschap","Dutch","nl","Vennootschap onder firma vennootschap","VOF/FA;V.O.F.;firma",""
+"Indonesia","ID","","","Koperasi","Indonesian","id","Koperasi","",""
+
+"Indonesia","ID","","","Maatschap","Dutch","nl","Maatschap","Mts.",""
+"Indonesia","ID","","","Persekutuan Perdata","Indonesian","id","Persekutuan Perdata","P.P.",""
+
+IL:
+"Israel","IL","","","חברה בע"מ","Hebrew","he","khevra ba'am","","B.M.;Baam;Ltd."
+"Israel","IL","","","חברה לתועלת הציבור","Hebrew","he","khevra le'to'ellet ha'tzibur","",""
+"Israel","IL","","","שותפות","Hebrew","he","shutafut","",""
+"Israel","IL","","","אגודה שיתופית","Hebrew","he","aguda shitufit","",""
+"Israel","IL","","","עמותה","Hebrew","he","amuta","",""
+
+IN:
+"I47Z","India","IN","","","One Person Company","English","en","One Person Company","O.P.C.","","2019-07-05","ACTV","","",""
+"India","IN","","","Hindu Undivided Family","English","en","Hindu Undivided Family","H.U.F.",""
+"India","IN","","","Family Owned Business","English","en","Family Owned Business","",""
+"India","IN","","","Public Sector Undertaking","English","en","Public Sector Undertaking","P.S.U.",""
+
+IQ:
+"Iraq","IQ","","","Limited Liability Company","English","en","Limited Liability Company","L.L.C.",""
+"Iraq","IQ","","","Private Limited Company","English","en","Private Limited Company","Ltd.",""
+"Iraq","IQ","","","Public Joint Stock Company","English","en","Public Joint Stock Company","P.J.S.C.",""
+
+IR:
+"Iran","IR","","","Limited Liability Company","English","en","Limited Liability Company","L.L.C.",""
+"Iran","IR","","","Public Joint Stock Company","English","en","Public Joint Stock Company","P.J.S.C.",""
+"Iran","IR","","","شرکت سهامی عام","Arabic","ar","Sherkat Sahami Am","",""
+"Iran","IR","","","شرکت سهامی خاص,"Arabic","ar","Sherkat Sahami Khas","",""
+"Iran","IR","","","شرکت با مسئولیت محدود,"Arabic","ar","Sherkat ba Masouliyat Mahdoud","",""
+"Iran","IR","","","شرکت مختلط غیر سهامی","Arabic","ar","Sherkat Mokhtalet Gheyr Sahami","",""
+"Iran","IR","","","شرکت مختلط سهامی","Arabic","ar","Sherkat Mokhtalet Sahami","",""
+"Iran","IR","","","شرکت تضامنی","Arabic","ar","Sherkat Tazamoni","",""
+"Iran","IR","","","شرکت نسبی","Arabic","ar","Sherkat Nesbi","",""
+"Iran","IR","","","شرکت تعاونی تولید و مصرف","Arabic","ar","Sherkat Ta'avoni Tolid va Masraf","",""
+
+IS:
+"Iceland","IS","","","Opinbert hlutafélag","Icelandic","is","Opinbert hlutafélag","O.H.F.",""
+"Iceland","IS","","","Sameignarfélag","Icelandic","is","Sameignarfélag","S.F.",""
+"Iceland","IS","","","Einstaklingsfyrirtæki","Icelandic","is","einstaklingsfyrirtæki","",""
+"Iceland","IS","","","Samlagsfélag","Icelandic","is","Samlagsfélag","S.A.F.",""
+"Iceland","IS","","","Samvinnufélag","Icelandic","is","Samvinnufélag","S.V.",""
+"Iceland","IS","","","Sjálfseignarstofnun","Icelandic","is","Sjálfseignarstofnun","S.F.S.",""
+
+JM:
+"Jamaica","JM","","","Private Limited Company","English","en","Private Limited Company","Ltd.",""
+
+JO:
+"Jordan","JO","","","Private Limited Company","English","en","Private Limited Company","P.L.C.;Ltd.",""
+"Jordan","JO","","","Limited Partnership","English","en","Limited Partnership","L.P.",""
+
+KE:
+"Kenya","KE","","","Private Limited Company","English","en","Private Limited Company","Ltd.",""
+
+KG:
+"Kyrgyzstan","KG","","","Closed Joint Stock Company","English","en","Closed Joint Stock Company","C.J.S.C.",""
+"Kyrgyzstan","KG","","","Open Joint Stock Company","English","en","Open Joint Stock Company","O.J.S.C.",""
+"Kyrgyzstan","KG","","","Общественное объединение","Russian","ru","Obshtestvennoe Obaedineie","OO","OO"
+
+osoo ? or is that ooo ?
+obshtestvo s ogranichennoy otvetstvennostyu ?
+maybe s of selskokhozyaystvennyy ?
+
+KH:
+"Cambodia","KH","","","Import export co ltd","English","en","Import export co ltd","",""
+"Cambodia","KH","","","Private Limited Company","English","en","Private Limited Company","P.L.C. Ltd.;PLC Ltd",""
+"Cambodia","KH","","","Single Member Private Limited Company","English","en","Single Member Private Limited Company","S.M. Pte. Ltd.",""
+"Cambodia","KH","","","Private Limited Company","English","en","Private Limited Company","Pte. Ltd.",""
+"Cambodia","KH","","","Limited Partnership","English","en","Limited Partnership","L.P.",""
+"Cambodia","KH","","","Public Establishment with Economic characteristics","English","en","Public Establishment with Economic characteristics","P.E.E.C.",""
+
+KI:
+"Kiribati","KI","","","Private Limited Company","English","en","Private Limited Company","Ltd.",""
+
+KM:
+"Comoros","KM","","","Société à responsabilité limitée","French","fr","Société à responsabilité limitée","S.A.R.L.;S.L.",""
+
+KN:
+"Saint Kitts and Nevis","KN","","","Private Limited Company","English","en","Private Limited Company","Ltd.",""
+"Saint Kitts and Nevis","KN","","","Limited Liability Company","English","en","Limited Liability Company","L.L.C.",""
+"Saint Kitts and Nevis","KN","","","Trust","English","en","Trust","Trust;Trustee",""
+
+KR:
+"Korea","KR","","","Company Limited","English","en","Company Limited","Co., Ltd.",""
+
+"Korea","KR","","","주식회사","Korean","ko","Jusik hoesa","",""
+"Korea","KR","","","株式會社","Chinese","zh","Jusik hoesa","",""
+
+"Korea","KR","","","유한회사","Korean","ko","Yuhan hoesa","",""
+"Korea","KR","","","有限會社","Chinese","zh","Yuhan hoesa","",""
+
+"Korea","KR","","","유한책임회사","Korean","ko","Yuhan chaeg-im hoesa","",""
+"Korea","KR","","","有限責任會社","Chinese","zh","Yuhan chaeg-im hoesa","",""
+
+"Korea","KR","","","합자회사","Korean","ko","Hapja hoesa","",""
+"Korea","KR","","","合資會社","Chinese","zh","Hapja hoesa","",""
+
+"Korea","KR","","","합명회사","Korean","ko","Hapmyeong hoesa","",""
+"Korea","KR","","","合名會社","Chinese","zh","Hapmyeong hoesa","",""
+
+KV:
+"Kosovo","KV","","","Biznesi Individual","Albanian","al","Biznesi Individual","B.I.",""
+Previously dpz or ntp ?
+"Kosovo","KV","","","Опште партнерство","Serbian","sr","Opšte partnerstvo","","O.P."
+
+SH.K.M. ?
+SH.P.K. ?
+SH.A ?
+
+KW:
+"Kuwait","KW","","","With Limited Liability","English","en","With Limited Liability","W.L.L.",""
+"Kuwait","KW","","","Segregated Portfolio Company;Protected Cell Company","English","en","Segregated Portfolio Company;Protected Cell Company","S.P.C.;P.C.C.",""
+"Kuwait","KW","","","Kuwaiti Joint Stock Company","English","en","Kuwaiti Joint Stock Company","K.S.C. with close;K.S.C. with closed;K.S.C.",""
+
+KY:
+"Cayman Islands","KY","","","Limited Partnership","English","en","Limited Partnership","L.P.",""
+"Cayman Islands","KY","","","Segregated Portfolio Company","English","en","Segregated Portfolio Company","S.P.C.",""
+"Cayman Islands","KY","","","Trust","English","en","Trust","Trust;Trustee",""
+"Cayman Islands","KY","","","Limited Liability Company","English","en","Limited Liability Company","L.L.C.",""
+
+KZ:
+"Kazakhstan","KZ","","","Товарищество с ограниченной ответственностью","Kazakh","kk","Tovarishchestvo s ogranichennoy otvetstvennostyu","TOO","TOO"
+"Kazakhstan","KZ","","","Государственное предприятие","Kazakh","kk","Gosudarstvenoe predpriyatie","ГП","GP"
+"Kazakhstan","KZ","","","Учреждение","Kazakh","kk","Uchrezhdenie","Учр","Uchr"
+"Kazakhstan","KZ","","","Товарищество с дополнительной ответственностью","Kazakh","kk","Tovarishchestvo s dopolnitelnoyu otvetstvennostyu","ТДО","TDO"
+"Kazakhstan","KZ","","","Акционерное общество","Kazakh","kk","Aktsionernoe obschestvo","АО","АО"
+"Kyrgyzstan","KG","","","Joint Stock Company","English","en","Joint Stock Company","J.S.C.",""
+"Kyrgyzstan","KG","","","Closed Joint Stock Company","English","en","Closed Joint Stock Company","C.J.S.C.",""
+"Kyrgyzstan","KG","","","Limited Liability Partnership","English","en","Limited Liability Partnership","L.L.P.",""
+"Kazakhstan","KZ","","","Командитное товарищество","Kazakh","kk","Komanditnoe Tovarishchestvo","КТ","КТ"
+"Kazakhstan","KZ","","","Общественное объединение","Kazakh","kk","Obshestvennoe Obedinenie","OO","OO"
+"Kazakhstan","KZ","","","Потребительский кооператив","Kazakh","kk","Potrebibitelskii Kooperativ","ПтК","PtK"
+"Kazakhstan","KZ","","","Производственный кооператив","Kazakh","kk","Proizvodstvenni Kooperativ","ПрК","PrK"
+"Kazakhstan","KZ","","","Религиозное объединение","Kazakh","kk","Relitioznoe Obedinenie","PO","PO"

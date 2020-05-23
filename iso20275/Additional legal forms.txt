@@ -46,7 +46,7 @@ AR:
 "Argentina","AR","","","Sociedad de Responsabilidad Limitada","Spanish","es","Sociedad de Responsabilidad Limitada","S.L.;S.R.L.;Lda.",""
 "Argentina","AR","","","Sociedad Anonima","Spanish","es","Sociedad Anonima","S.A.",""
 "Argentina","AR","","","Sociedad por Acciones Simplificada","Spanish","es","Sociedad por Acciones Simplificada","S.A.S.",""
-"Argentina","AR","","","Sociedad en Comandia Simple","Spanish","es","Sociedad en Comandia Simple","S.C.S.",""
+"Argentina","AR","","","Sociedad en Comandita Simple","Spanish","es","Sociedad en Comandita Simple","S.C.S.",""
 "Argentina","AR","","","Sociedad en Comandita Por Acciones","Spanish","es","Sociedad en Comandita Por Acciones","S.C.P.A.",""
 "Argentina","AR","","","Sociedad Colectiva","Spanish","es","Sociedad Colectiva","Soc.Col.;S.C.;S.R.C.",""
 "Argentina","AR","","","Sociedad de Capital e Industria","Spanish","es","Sociedad de Capital e Industria","S.C.E.I.",""
@@ -812,5 +812,164 @@ OM:
 "Oman","OM","","","Limited Liability Company","English","en","Limited Liability Company","L.L.C.",""
 "Oman","OM","","","Société Anonyme Omanaise Générale","French","fr","Société Anonyme Omanaise Générale","S.A.O.G.",""
 "Oman","OM","","","Société Anonyme Omanaise Close","French","fr","Société Anonyme Omanaise Close","S.A.O.C.",""
-"Oman","OM","","","Sharikat al-Mossahamah","Arabic","ar","Sharikat al-Mossahamah","S.A.E.","" ?
+"Oman","OM","","","Sharikat al-Mossahamah","Arabic","ar","Sharikat al-Mossahamah","S.A.E.",""
+
+PA:
+
+"Panama","PA","","","Sociedad de Responsabilidad Limitada","Spanish","es","Sociedad de Responsabilidad Limitada","S.L.;S.R.L.",""
+
+"Panama","PA","","","Sociedad Anònima","Spanish","es","Sociedad Anonima","S.A.",""
+"Panama","PA","","","Corporation;Incorporated;Incorporated Corporation","Spanish","es","Corporation;Incorporated;Incorporated Corporation","Corp.;Inc.;Inc. Corp.",""
+
+"Panama","PA","","","Fundacion de Interes Privado","Spanish","es","Fundacion de Interes Privado","F.I.P.",""
+"Panama","PA","","","Private Interest Foundation","English","en","Private Interest Foundation","P.I.F.",""
+
+"Panama","PA","","","Proprietary Limited Company","English","en","Proprietary Limited Company","Pty. Ltd.",""
+"Panama","PA","","","International Business Corporation","English","en","International Business Corporation","I.B.C.",""
+
+PE:
+"Peru","PE","","","Sociedad Anónima Cerrada","Spanish","es","Sociedad Anónima Cerrada","S.A.C.",""
+"Peru","PE","","","Empresa Individual de Responsabilidad Limitada","Spanish","es","Empresa Individual de Responsabilidad Limitada","E.I.R.L.",""
+"Peru","PE","","","Sociedad de Responsabilidad Limitada","Spanish","es","Sociedad de Responsabilidad Limitada","S.L.;S.R.L.",""
+"Peru","PE","","","Sociedad Anónima Abiert","Spanish","es","Sociedad Anónima Abiert","S.A.A.",""
+
+PG:
+"Papua New Guinea","PG","","","Proprietary Limited Company","English","en","Proprietary Limited Company","Pty. Ltd.",""
+"Papua New Guinea","PG","","","Co-operative","English","en","Co-operative","Coop.",""
+
+PH:
+"Philippines","PH","","","Incorporated","English","en","Incorporated","Inc.",""
+"Philippines","PH","","","Corporation","English","en","Corporation","Corp.",""
+"Philippines","PH","","","Company","English","en","Company","Co.",""
+"Philippines","PH","","","Limited Company","English","en","Limited Company","Ltd. Co.;Ltd.",""
+"Philippines","PH","","","Entreprise","English","en","Entreprise","Ent.",""
+
+PK:
+"88OX","Pakistan","PK","","","Private Limited Company (Single member)","English","en","Private Limited Company (Single member)","SMC;SMC Pvt","","2017-11-30","ACTV","","",""
+
+PL:
+"O7XB","Poland","PL","","","spółki z ograniczoną odpowiedzialnością","Polish","pl","spółki z ograniczoną odpowiedzialnością","sp. z o.o.;sp zoo","","2017-11-30","ACTV","","",""
+"Poland","PL","","","jednoosobowa działalność gospodarcza","Polish","pl","jednoosobowa działalność gospodarcza","",""
+
+I see spółka and not spółki ?
+
+PS:
+"Palestine","PS","","","Limited Liability Company","English","en","Limited Liability Company","L.L.C."
+
+PT:
+"Portugal","PT","","","Associação Complementar de Empresas","Portuguese","pt","Associação Complementar de Empresas","A.C.E.",""
+"Portugal","PT","","","Sociedade Gestora de Participações Sociais","Portuguese","pt","Sociedade Gestora de Participações Sociais","S.G.P.S.",""
+
+PW:
+"Palau","PW","","","Incorporated","English","en","Incorporated","Inc.",""
+"Palau","PW","","","Private Limited Company","English","en","Private Limited Company","Ltd.",""
+
+PY:
+"Paraguay","PY","","","Sociedad Anónima","Spanish","es","Sociedad Anónima","S.A.",""
+"Paraguay","PY","","","Sociedad de Responsabilidad Limitada","Spanish","es","Sociedad de Responsabilidad Limitada","S.L.;S.R.L.",""
+"Paraguay","PY","","","Cooperativa","Spanish","es","Cooperativa","Coop.",""
+"Paraguay","PY","","","Sociedad Anónima Comercial Industrial","Spanish","es","Sociedad Anónima Comercial Industrial","S.A.C.I",""
+"Paraguay","PY","","","Empresa Individual de Responsabilidad Limitada","Spanish","es","Empresa Individual de Responsabilidad Limitada","E.I.R.L.",""
+
+QA:
+"Qatar","QA","","","With limited liability","English","en","With limited liability","W.L.L.",""
+"Qatar","QA","","","Limited Liability Company","English","en","Limited Liability Company","L.L.C.",""
+"Qatar","QA","","","Public Qatari Shareholding Company","English","en","Public Qatari Shareholding Company","P.Q.S.C.",""
+"Qatar","QA","","","Qatari Shareholding Company","English","en","Qatari Shareholding Company","P.Q.S.C.",""
+"Qatar","QA","","","Qatari Shareholding Company Closed","English","en","Qatari Shareholding Company Closed","P.Q.S.C.C.",""
+
+Qatari Shareholding Company Closed ? But exists with pqsc so is it close or public ?
+
+RO:
+"Romania","RO","","","Societate cu răspundere limitată-Debutant","Romanian","ro","Societate cu răspundere limitată-Debutant","SRL-D",""
+"Romania","RO","","","Societatea cu răspundere limitată cu proprietar unic","Romanian","ro","Societatea cu răspundere limitată cu proprietar unic","SRL cu proprietar unic",""
+"Romania","RO","","","Economic Interest Group","English","en","Economic Interest Group","E.I.C.",""
+
+RS:
+"Serbia","RS","","","деоничарско друштво;деоничко друштво","Serbian","sr","deoničarsko društvo;deoničko društvo","д.д.","d.d."
+
+str ?
+szr ?
+sur ?
+sztr ?
+strk ?
+
+RW:
+"Rwanda","RW","","","Société anonyme","French","fr","Société anonyme","S.A.",""
+
+SA:
+"Saudi Arabia","SA","","","Public Joint Stock Company","English","en","Public Joint Stock Company","P.J.S.C.",""
+
+SB:
+"Solomon Islands","SB","","","Proprietary Limited Company","English","en","Proprietary Limited Company","Pty. Ltd.",""
+"Solomon Islands","SB","","","Private Limited Company","English","en","Private Limited Company","Ltd.",""
+
+SC:
+"Seychelles","SC","","","Proprietary Limited Company","English","en","Proprietary Limited Company","Pty. Ltd.",""
+"Seychelles","SC","","","Private Limited Company","English","en","Private Limited Company","Ltd.",""
+
+SD:
+"Sudan","SD","","","Company Limited","English","en","Company Limited","Ltd.;Co. Ltd.",""
+
+SE:
+"Sweden","SE","","","Publikt aktiebolag","Swedish","sv","Publikt aktiebolag","AB (publ.)",""
+"Sweden","SE","","","Enskild näringsverksamhet;Enskild firma","Swedish","sv","Enskild näringsverksamhet;Enskild firma","",""
+"Sweden","SE","","","Enkelt bolag,"Swedish","sv","Enkelt bolag",""
+
+SG:
+"Singapore","SG","","","Private Limited Company","English","en","Private Limited Company","Pte. Ltd.",""
+"Singapore","SG","","","Sendirian Berhad","Malay","ms","Sendirian Berhad","Sdn. Bhd.",""
+
+SK:
+"VSZS","Slovakia","SK","","","Spoločnosť s ručením obmedzeným","Slovak","sk","Spoločnosť s ručením obmedzeným","Spol. s r. o.;s.r.o.","","2017-11-30","ACTV","","",""
+"5J5Y","Slovakia","SK","","","Verejná obchodná spoločnosť","Slovak","sk","Verejná obchodná spoločnosť","Ver. obch. spol.;v.o.s.","","2017-11-30","ACTV","","",""
+"KB52","Slovakia","SK","","","Komanditná spoločnosť","Slovak","sk","Komanditná spoločnosť","Kom. spol.;k.s.","","2017-11-30","ACTV","","",""
+
+SL:
+"Sierra Leone","SL","","","Private Limited Company","English","en","Private Limited Company","Ltd.",""
+
+SM:
+"San Marino","SM","","","Società A Responsabilità Limitata","Italian","it","Societa A Responsabilita Limitata","SRL;S.R.L.",""
+"San Marino","SM","","","Società Per Azioni","Italian","it","Societa Per Azioni","SPA;S.P.A.",""
+
+SN:
+"Senegal","SN","","","Société à responsabilité limitée","French","fr","Société à responsabilité limitée","S.A.R.L.",""
+"Senegal","SN","","","Société unipersonnelle à responsabilité limitée","French","fr","Société unipersonnelle à responsabilité limitée","S.U.A.R.L.",""
+"Senegal","SN","","","Société civile immobilière","French","fr","Société civile immobilière","S.C.I.",""
+
+"Senegal","SN","","","Groupement d'intérêt économique","French","fr","Groupement d'intérêt économique","G.I.E.",""
+"Senegal","SN","","","Economic interest group","English","en","Economic interest group","E.I.G.",""
+
+SO:
+"Somalia","SO","","","Private Limited Company","English","en","Private Limited Company","P.L.C.;Ltd.",""
+
+SS:
+"South Sudan","SS","","","Private Limited Company","English","en","Private Limited Company","Ltd.",""
+
+ST:
+"Sao Tome and Principe","ST","","","Sociedade limitada","Portuguese","pt","Sociedade limitada","Lda.",""
+"Sao Tome and Principe","ST","","","Sociedade anónima","Portuguese","pt","Sociedade anonima","S.A.",""
+"Sao Tome and Principe","ST","","","Sociedade Unipessoal limitada","Portuguese","pt","Sociedade Unipessoal limitada","Unipessoal Lda.",""
+"Sao Tome and Principe","ST","","","Sociedade Gestora de Participações Sociais","Portuguese","pt","Sociedade Gestora de Participações Sociais","S.G.P.S.",""
+
+SV:
+"El Salvador","SV","","","Sociedad Anónima de Capital Variable","Spanish","es","Sociedad Anónima de Capital Variable","S.A. de C.V.;SA de CV",""
+"El Salvador","SV","","","Sociedad de responsabilidad limitada","Spanish","es","Sociedad de responsabilidad limitada","S.R.L.;Ltda.",""
+"El Salvador","SV","","","Sociedade cooperative responsabilidade limitada","Spansih","es","Sociedade cooperative responsabilidade limitada","S.C.R.L.;Coop",""
+"El Salvador","SV","","","Sociedad en nombre colectivo;sociedad Colectiva","Spanish","es","Sociedad en nombre colectivo;sociedad Colectiva","S. en N.C.;S.C.",""
+"El Salvador","SV","","","Sociedad Anónima","Spanish","es","Sociedad Anónima","S.A.",""
+"El Salvador","SV","","","Sociedad en comandita simple","Spanish","es","Sociedad en comandita simple","S. en C.S.;S. en C.",""
+"El Salvador","SV","","","Sociedad en comandita por accionnes","Spanish","es","Sociedad en comandita por accionnes","S. en C.A.;S.C.A.",""
+
+SX:
+"Sint Maarten","SX","","","Naamloze vennootschap","Dutch","nl","Naamloze vennootschap","N.V.",""
+"Sint Maarten","SX","","","Besloten vennootschap","Dutch","nl","Besloten vennootschap","B.V.",""
+
+SY:
+"Syria","SY","","","Limited Liability Company","English","en","Limited Liability Company","L.L.C.",""
+"Syria","SY","","","Private Limited Company","English","en","Private Limited Company","Ltd.",""
+
+SZ:
+"Eswatini","SZ","","","Proprietary Limited Company","English","en","Proprietary Limited Company","Pty. Ltd.",""
+"Eswatini","SZ","","","Private Limited Company","English","en","Private Limited Company","Ltd.",""
 

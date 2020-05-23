@@ -238,7 +238,7 @@ CD:
 CF:
 "Central African Republic","CF","","","Société à responsabilité limitée","French","fr","Société privée à responsabilité limitée","SARL",""
 "Central African Republic","CF","","","Société anonyme","French","fr","Société anonyme","S.A.",""
-"Central African Republic","CF","","","Central African Republic","English","en","Central African Republic","Pty. Ltd.",""
+"Central African Republic","CF","","","Proprietary Limited Company","English","en","Proprietary Limited Company","Pty. Ltd.",""
 
 CG:
 "Congo","CG","","","Société à responsabilité limitée","French","fr","Société privée à responsabilité limitée","SARL",""
@@ -612,3 +612,205 @@ KZ:
 "Kazakhstan","KZ","","","Потребительский кооператив","Kazakh","kk","Potrebibitelskii Kooperativ","ПтК","PtK"
 "Kazakhstan","KZ","","","Производственный кооператив","Kazakh","kk","Proizvodstvenni Kooperativ","ПрК","PrK"
 "Kazakhstan","KZ","","","Религиозное объединение","Kazakh","kk","Relitioznoe Obedinenie","PO","PO"
+
+LA:
+"Laos","LA","","","Company Limited","English","en","Company Limited","Co.,Ltd.;Co. Ltd.",""
+"Laos","LA","","","Import-Export Company Limited","English","en","Import-Export Company Limited","Import-export Co.,Ltd.;Import-export Co. Ltd.",""
+
+LB:
+"Lebanon","LB","","","Société à responsabilité limitée","French","fr","Société privée à responsabilité limitée","SARL",""
+"Lebanon","LB","","","Société anonyme libanaise","French","fr","Société anonyme libanaise","S.A.L.",""
+"Lebanon","LB","","","Société en nom collectif","French","fr","Société en nom collectif","S.N.C.",""
+"Lebanon","LB","","","Société en commandité simple","French","fr","Société en commandité simple","S.C.S.";""
+
+LC:
+"Saint Lucia","LC","","","Private Limited Company","English","en","Private Limited Company","Ltd.",""
+
+LI:
+"1DGT","Liechtenstein","LI","","","Registered trust entreprise","English","en","Registered trust entreprise","Trust reg.","","2017-11-30","ACTV","","",""
+"Liechtenstein","LI","","","European Economic Interest Grouping","English","en","European Economic Interest Grouping","E.E.I.G.",""
+"Liechtenstein","LI","","","Liechtenstein venture cooperative,"English","en","Liechtenstein venture cooperative","L.V.C.",""
+"Liechtenstein","LI","","","Company limited by shares","English","en","Company limited by shares","",""
+"Liechtenstein","LI","","","Establishment","English","en","Establishment","Ets.",""
+"Liechtenstein","LI","","","European Company","English","en","European Company","",""
+
+LK:
+"Sri Lanka","LK","","","Private Limited Company","English","en","Private Limited Company","Pvt. Ltd. Co.;P.L.C."
+
+LI:
+"Liberia","LI","","","Private Limited Company","English","en","Private Limited Company","Ltd.",""
+"Liberia","LI","","","Limited Liability Company","English","en","Limited Liability Company","L.L.C.",""
+
+LS:
+"Lesotho","LS","","","Proprietary Limited Company","English","en","Proprietary Limited Company","Pty. Ltd.",""
+
+LT:
+"SFYA","Lithuania","LT","","","Mažosios bendrijos;Mažoji bendrija","Lithuanian","lt","Mažosios bendrijos;Mažoji bendrija","MB","","2017-11-30","ACTV","","",""
+"DLCX","Lithuania","LT","","","Tikroji ūkinė bendrija","Lithuanian","lt","Tikroji ūkinė bendrija","TUB","","2017-11-30","ACTV","","",""
+"Lithuania","LT","","","Individuali veikla","Lithuanian","lt","Individuali veikla","",""
+"KWBA","Lithuania","LT","","","Viešosios įstaigos;Viešoji įstaiga","Lithuanian","lt","Viešosios įstaigos","VS;VšĮ","","2017-11-30","ACTV","","",""
+
+LU:
+"DVXS","Luxembourg","LU","","","Société à responsabilité limitée","French","fr","Société à responsabilité limitée","sàrl;SARL","","2017-11-30","ACTV","","",""
+"Luxembourg","LU","","","Société à responsabilité limitée simplifiée","French","fr","Société à responsabilité limitée simplifiée","SARL-S",""
+"Luxembourg","LU","","","Société civile immobilière","French","fr","Société civile immobilière","",""
+
+LV:
+"BS22","Latvia","LV","","","Individual merchant","English","en","Individual merchant","IK",""
+"Latvia","LV","","","Ārzemju komersanta filiāle","Latvian","lv","Valsts sabiedrība ar ierobežotu atbildību","ĀKF",""
+"Latvia","LV","","","Bezpeļņas organizācija","Latvian","lv","Valsts sabiedrība ar ierobežotu atbildību","BO",""
+"Latvia","LV","","","Valsts sabiedrība ar ierobežotu atbildību","Latvian","lv","Valsts sabiedrība ar ierobežotu atbildību","VSIA",""
+"Latvia","LV","","","zvejnieku saimniecības","Latvian","lv","zvejnieku saimniecības","ZVJ;ZS",""
+
+LY:
+"Libya","LY","","","Private Limited Company","English","en","Private Limited Company","Ltd.",""
+"Libya","LY","","","Joint Stock Company","English","en","Joint Stock Company","J.S.C.",""
+"Libya","LY","","","Limited Liability Company","English","en","Limited Liability Company","L.L.C.",""
+
+MA:
+"Morocco","MA","","","Société anonyme","French","fr","Société privée à responsabilité limitée","S.A.",""
+"Morocco","MA","","","Société à responsabilité limitée","French","fr","Société privée à responsabilité limitée","SARL",""
+"Morocco","MA","","","Société par actions simplifiées","French","fr","Société par actions simplifiées","S.A.S.",""
+"Morocco","MA","","","Société en nom collectif","French","fr","Société en nom collectif","S.N.C.",""
+"Morocco","MA","","","Société en commandité simple","French","fr","Société en commandité simple","S.C.S.";""
+"Morocco","MA","","","Société en commandité par actions","French","fr","Société en commandité par actions","S.C.A.";""
+
+MC:
+"Monaco","MC","","","Société à responsabilité limitée","French","fr","Société privée à responsabilité limitée","SARL",""
+"Monaco","MC","","","Société anonyme monégasque","French","fr","Société anonyme monégasque","S.A.M.;S.A.",""
+"Monaco","MC","","","Société en commandité simple","French","fr","Société en commandité simple","S.C.S.";""
+"Monaco","MC","","","Société en nom collectif","French","fr","Société en nom collectif","S.N.C.",""
+"Monaco","MC","","","Société civile immobilière","French","fr","Société civile immobilière","S.C.I.";""
+"Monaco","MC","","","Société en commandité par actions","French","fr","Société en commandité par actions","S.C.A.";""
+"Monaco","MC","","","Société civile professionnelle","French","fr","Société civile professionnelle","S.C.P.";""
+
+MD:
+"Moldova","MD","","","Societate cu Raspundere Limitata","Romanian","ro","Societate cu Raspundere Limitata","S.R.L.",""
+"Moldova","MD","","","Intreprinderea Individuala;Intreprinzator Individual","Romanian","ro","Intreprinderea Individuala;Intreprinzator Individual","ÎI","II"
+"Moldova","MD","","","Societate Asociaţia","Romanian","ro","Societate Asociatia","S.A.",""
+"Moldova","MD","","","Cooperativa","Romanian","ro","Cooperativa","coop.",""
+"Moldova","MD","","","Orgainizatia necomerciale;Orgainizatia necomerciala","Romanian","ro","Orgainizatia necomerciale;Orgainizatia necomerciala","Org. Necom.",""
+"Moldova","MD","","","Orgainizatia necomerciale;Orgainizatia necomerciala","Romanian","ro","Orgainizatia necomerciale;Orgainizatia necomerciala","Org. Necom.",""
+"Moldova","MD","","","Întreprinderile mici și întreprinderile mijlocii","Romanian","ro","Small entreprises and medium entreprises","ÎS si îM","SE. and ME."
+
+ME:
+"Montenegro","ME","","","Društvo sa Ograničenom Odgovornošću","Croatian","hr","Društvo sa Ograničenom Odgovornošću","d.o.o.",""
+"Montenegro","ME","","","Akcionarsko Društvo","Croatian","hr","Akcionarsko Društvo","a.d.",""
+"Montenegro","ME","","","Ortačko Društvo","Croatian","hr","Ortačko Društvo","o.d.",""
+"Montenegro","ME","","","Komanditno Društvo","Croatian","hr","Komanditno Društvo","k.d.",""
+"Montenegro","ME","","","Preduzetnik","Croatian","hr","Preduzetnik","Pr.",""
+"Montenegro","ME","","","Dio stranog društva","Croatian","hr","Dio stranog društva","",""
+
+MG:
+"Madagascar","MG","","","Société à responsabilité limitée","French","fr","Société privée à responsabilité limitée","SARL",""
+"Madagascar","MG","","","Société à responsabilité limitée unipersonnelle","French","fr","Société privée à responsabilité limitée unipersonnelle","SARLU",""
+"Madagascar","MG","","","Société anonyme","French","fr","Société anonyme","S.A.",""
+
+MH:
+"Marshall Islands","MH","","","Private Limited Company","English","en","Private Limited Company","Ltd.",""
+"Marshall Islands","MH","","","Limited Liability Company","English","en","Limited Liability Company","L.L.C.",""
+
+MK:
+"North Macedonia","MK","","","Друштво со ограничена одговорност основано од едно лице","Macedonian","mk","Društvo so Ograničena Odgovornost od Edno Lice","Д.О.О.Е.Л.","D.O.O.E.L.;DOOEL"
+"KHAB","North Macedonia","MK","","","Друштво со ограничена одговрност","Macedonian","mk","Drustvo so ogranicena odgvornost","Д.О.О.","D.O.O.;DOO","2017-11-30","ACTV","","2019-07-05","change country name"
+"DTIU","North Macedonia","MK","","","Акционерско друштво","Macedonian","mk","Akcionersko drustvo","А.Д.","A.D.;AD","2017-11-30","ACTV","","2019-07-05","change country name"
+"XH7Z","North Macedonia","MK","","","Командитно друштво","Macedonian","mk","Komanditno drustvo","К.Д.","K.D.;KD","2017-11-30","ACTV","","2019-07-05","change country name"
+"149O","North Macedonia","MK","","","Командитно друштво со акции","Macedonian","mk","Komanditno drustvo so akcii","К.Д.А.","K.D.A.;KDA","2017-11-30","ACTV","","2019-07-05","change country name"
+"HEXO","North Macedonia","MK","","","Јавно трговско претпријатие","Macedonian","mk","Javno trgovsko pretprijatie","Ј.Т.Д.","J.T.D.;JTD","2017-11-30","ACTV","","2019-07-05","change country name"
+
+ML:
+"Mali","ML","","","Société à responsabilité limitée","French","fr","Société privée à responsabilité limitée","SARL",""
+"Mali","ML","","","Société anonyme","French","fr","Société anonyme","S.A.",""
+
+MM:
+"Myanmar","MM","","","Company Limited","English","en","Company Limited","Co. Ltd.",""
+"Myanmar","MM","","","Co-operative","English","en","Co-operative","Coop.",""
+
+MN:
+"Mongolia","MN","","","Limited Liability Company","English","en","Limited Liability Company","L.L.C.",""
+"Mongolia","MN","","","Joint stock company","English","en","Joint Stock Company","j.s.c.",""
+
+MO:
+"Macao","MO","","","Sociedade por quotas de responsabilidade limitada","Portuguese","pt","Sociedade por quotas de responsabilidade limitada","S.A.R.L.;Lda.",""
+"Macao","MO","","","Limited Liability Company","English","en","Limited Liability Company","Limited;Ltd.",""
+
+"Macao","MO","","","Sociedade anónima","Portuguese","pt","Sociedade anonima","S.A.",""
+
+MR:
+"Mauritania","MR","","","Société à responsabilité limitée","French","fr","Société privée à responsabilité limitée","SARL",""
+"Mauritania","MR","","","Société anonyme","French","fr","Société anonyme","S.A.",""
+
+MU:
+"Mauritius","MU","","","Société limitée","French","fr","Société limitée","Soc. Ltée.",""
+
+MV:
+"Maldives","MV","","","Private limited company","English","en","Private limited company","Pvt. Ltd.;P.L.C.",""
+
+MW:
+"Malawi","MW","","","Private limited company","English","en","Private limited company","P.L.C.;Ltd.",""
+"Malawi","MW","","","Proprietary Limited Company","English","en","Proprietary Limited Company","Pty. Ltd.",""
+
+MX:
+"Mexico","MX","","","Sociedad Anónima de Capital Variable","Spanish","es","Sociedad Anónima de Capital Variable","S.A. de C.V.;SA de CV",""
+"Mexico","MX","","","Sociedad Anónima","Spanish","es","Sociedad Anónima","S.A.",""
+"Mexico","MX","","","Sociedad en Comandita Simple","Spanish","es","Sociedad  en Comandita Simple","S.C.;S. en C.",""
+"Mexico","MX","","","Sociedad de Responsabilidad Limitada","Spanish","es","Sociedad de Responsabilidad Limitada","S.R.L.;S. de R.L.;S de RL",""
+"Mexico","MX","","","Sociedad de Responsabilidad Limitada de Capital Variable","Spanish","es","Sociedad de Responsabilidad Limitada de Capital Variable","S. de R.L. de C.V.;S de RL de CV",""
+"Mexico","MX","","","Sociedad de producción rural de responsabilidad limitada","Spanish","es","Sociedad de producción rural de responsabilidad limitada","S.P.R.R.L.",""
+"Mexico","MX","","","Sociedad de producción rural de responsabilidad limitada de Capital variable","Spanish","es","Sociedad de producción rural de responsabilidad limitada de Capital variable","S.P.R.R.L. de C.V.;SPRRL de CV",""
+"Mexico","MX","","","Y compania;Y sucesores","Spanish","es","Y compania;Y sucesores","",""
+"Mexico","MX","","","Sociedad en Comandita por Acciones","Spanish","es","Sociedad en Comandita por Acciones","S.C.A.;S. en C. por A.",""
+"Mexico","MX","","","Sociedad Anónima Bursátil","Spanish","es","Sociedad Anónima Bursátil","S.A.B.",""
+"Mexico","MX","","","Sociedad Anónima Promotora de Inversión","Spanish","es","Sociedad Anónima Promotora de Inversión","S.A.P.I.",""
+
+MY:
+"Malaysia","MY","","","Sendirian Berhad","Malay","ms","Sendirian Berhad","Sdn. Bhd.",""
+"Malaysia","MY","","","Berhad","Malay","ms","Berhad","Bhd.",""
+"Malaysia","MY","","","Perkongsian Liabiliti Terhad","Malay","ms","Perkongsian Liabiliti Terhad","P.L.T.;Plt.",""
+
+MZ:
+"Mozambique","MZ","","","Sociedade por quotas de responsabilidade limitada","Portuguese","pt","Sociedade por quotas de responsabilidade limitada","S.A.R.L.;Lda.;Ltda.",""
+"Mozambique","MZ","","","Sociedade anónima","Portuguese","pt","Sociedade anonima","S.A.",""
+
+NA:
+"Namibia","NA","","","Close corporation","English","en","Close corporation","C.C.",""
+"Namibia","NA","","","Proprietary Limited Company","English","en","Proprietary Limited Company","Pty. Ltd.",""
+"Namibia","NA","","","Trust","English","en","Trust","Trust;Trustee",""
+"Namibia","NA","","","Co-operative","English","en","Co-operative","Coop.",""
+
+NE:
+"Niger","NE","","","Société à responsabilité limitée","French","fr","Société privée à responsabilité limitée","SARL",""
+
+NG:
+"Nigeria","NG","","","Private limited company","English","en","Private limited company","Ltd.;Pvt. Ltd.;P.L.C.",""
+"Nigeria","NG","","","Limited by Guarantee","English","en","Limited by Guarantee","Ltd.;Gte.",""
+"Nigeria","NG","","","Private unlimited company","English","en","Private unlimited company","unlimited",""
+"Nigeria","NG","","","Limited Liability Partnership","English","en","Limited Liability Partnership","L.L.P.",""
+"Nigeria","NG","","","Company Limited","English","en","Company Limited","Co.,Ltd.",""
+
+NI:
+"Nicaragua","NI","","","Sociedad Anònima","Spanish","es","Sociedad Anonima","S.A.",""
+"Nicaragua","NI","","","Sociedad en Nombre Colectivo de Responsabilidad Limitada","Spanish","es","Sociedad en Nombre Colectivo de Responsabilidad Limitada","Cia. Ltda.",""
+"Nicaragua","NI","","","Sociedad en Nombre Colectivo","Spanish","es","Sociedad en Nombre Colectivo","Cia.",""
+"Nicaragua","NI","","","Sociedad en Comandita Simple","Spanish","es","Sociedad en Comandita Simple","S.C.S.",""
+"Nicaragua","NI","","","Sociedad en Comandita por Acciones","Spanish","es","Sociedad en Comandita por Acciones","S.C.A.",""
+
+NO:
+"Norway","NO","","","Selskap med delt ansvar","Norwegian","no","Selskap med delt ansvar","DA",""
+"Norway","NO","","","Helseforetak","Norwegian","no","Helseforetak,"HF",""
+"Norway","NO","","","Norskregistrert utenlandsk foretak","Norwegian","no","Norskregistrert utenlandsk foretak","NUF",""
+"Norway","NO","","","Regionalt helseforetak","Norwegian","no","Regionalt helseforetak","RHF",""
+"Norway","NO","","","Ungdomsbedrift","Norwegian","no","Ungdomsbedrift","",""
+
+NP:
+"Nepal","NP","","","Private limited company","English","en","Private limited company","Pvt. Ltd.",""
+
+NR:
+"Nauru","NR","","","Incorporated society","English","en","Incorporated society","Inc.;Ltd.",""
+
+OM:
+"Oman","OM","","","Limited Liability Company","English","en","Limited Liability Company","L.L.C.",""
+"Oman","OM","","","Société Anonyme Omanaise Générale","French","fr","Société Anonyme Omanaise Générale","S.A.O.G.",""
+"Oman","OM","","","Société Anonyme Omanaise Close","French","fr","Société Anonyme Omanaise Close","S.A.O.C.",""
+"Oman","OM","","","Sharikat al-Mossahamah","Arabic","ar","Sharikat al-Mossahamah","S.A.E.","" ?
+

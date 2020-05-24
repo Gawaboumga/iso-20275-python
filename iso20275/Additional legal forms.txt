@@ -819,7 +819,7 @@ PA:
 "Panama","PA","","","Sociedad de Responsabilidad Limitada","Spanish","es","Sociedad de Responsabilidad Limitada","S.L.;S.R.L.",""
 
 "Panama","PA","","","Sociedad Anònima","Spanish","es","Sociedad Anonima","S.A.",""
-"Panama","PA","","","Corporation;Incorporated;Incorporated Corporation","Spanish","es","Corporation;Incorporated;Incorporated Corporation","Corp.;Inc.;Inc. Corp.",""
+"Panama","PA","","","Corporation;Incorporated;Incorporated Corporation","English","en","Corporation;Incorporated;Incorporated Corporation","Corp.;Inc.;Inc. Corp.",""
 
 "Panama","PA","","","Fundacion de Interes Privado","Spanish","es","Fundacion de Interes Privado","F.I.P.",""
 "Panama","PA","","","Private Interest Foundation","English","en","Private Interest Foundation","P.I.F.",""
@@ -973,3 +973,148 @@ SZ:
 "Eswatini","SZ","","","Proprietary Limited Company","English","en","Proprietary Limited Company","Pty. Ltd.",""
 "Eswatini","SZ","","","Private Limited Company","English","en","Private Limited Company","Ltd.",""
 
+TD:
+"Chad","TD","","","Société à responsabilité limitée","French","fr","Société à responsabilité limitée","S.A.R.L.",""
+"Chad","TD","","","Société anonyme","French","fr","Société à responsabilité limitée","S.A.",""
+
+TG:
+"Togo","TG","","","Société à responsabilité limitée","French","fr","Société à responsabilité limitée","S.A.R.L.",""
+"Togo","TG","","","Société anonyme","French","fr","Société à responsabilité limitée","S.A.",""
+
+TH:
+"Thailand","TH","","","Company Limited","English","en","Company Limited","Co.,Ltd.",""
+
+"Thailand","TH","","","ห้างหุ้นส่วนจำกัด","Thai","th","H̄̂āngh̄ûns̄̀wncảkạd","",""
+"Thailand","TH","","","Limited Partnership","English","en","Limited Partnership","Ltd.,Part.",""
+
+"Thailand","TH","","","บริษัทมหาชนจำกัด,"Thai","th","Bris̄ʹạthmh̄āchncảkạd","",""
+"Thailand","TH","","","จำกัด (มหาชน),"Thai","th","cảkạd (mh̄āchn),"",""
+"Thailand","TH","","","Public Company Limited","English","en","Public Company Limited","P.L.C.",""
+
+It appears as Public Company Limited and not Public Limited Company as in every other countries ! ?
+
+TJ:
+"Tajikistan","TJ","","","Close Joint Stock Company","English","en","Close Joint Stock Company","C.J.S.C.",""
+
+"TM":
+"Timor-Leste","TM","","","Sociedade limitada","Portuguese","pt","Sociedade limitada","Lda.",""
+"Timor-Leste","TM","","","Sociedade Unipessoal limitada","Portuguese","pt","Sociedade Unipessoal limitada","Unipessoal Lda.",""
+"Timor-Leste","TM","","","Sociedade anónima","Portuguese","pt","Sociedade anonima","S.A.",""
+
+TM:
+"Turkmenistan","TM","","","Close Joint Stock Company","English","en","Close Joint Stock Company","Ltd.;C.J.S.C.",""
+
+TN:
+"Tunisia","TN","","","Société à responsabilité limitée","French","fr","Société à responsabilité limitée","S.A.R.L.",""
+"Tunisia","TN","","","شّركة ذات مسؤوليّات محدودة ش.م.م.","Arabic","ar","shshrkt dhat mswwlyat mahdudat shi.ma.m.","","L.L.C."
+
+"Tunisia","TN","","","Société unipersonnelle à responsabilité limitée","French","fr","Société unipersonnelle à responsabilité limitée","S.U.A.R.L.",""
+"Tunisia","TN","","","شّركة فردية ذات مسؤوليّات محدودة","Arabic","ar","shshrkt fardiat dhat mswwlyat mahduda","",""
+
+"Tunisia","TN","","","Société anonyme","French","fr","Société à responsabilité limitée","S.A.",""
+"Tunisia","TN","","","شركة خفية الإسم","Arabic","ar","sharikat khafiat al'iism","",""
+
+"Tunisia","TN","","","Entreprise individuelle","French","fr","Entreprise individuelle","E.I.",""
+"Tunisia","TN","","","شركة فردية ","Arabic","ar","sharikat fardia","",""
+
+TO:
+"Tonga","TO","","","Private Limited Company","English","en","Private Limited Company","Ltd.",""
+
+TT:
+"Trinidad and Tobago","TT","","","Private Limited Company","English","en","Private Limited Company","Ltd.",""
+"Trinidad and Tobago","TT","","","Trust","English","en","Trust","Trust;Trustee",""
+
+TV:
+"Tuvalu","TV","","","Private Limited Company","English","en","Private Limited Company","Ltd.",""
+
+TW:
+"Taiwan","TW","","","有限公司","Chinese","zh","yǒuxiàn gōngsī","",""
+"Taiwan","TW","","","Limited Company","English","en","Limited Company","Co.,Ltd.",""
+
+"Taiwan","TW","","","Trust","English","en","Trust","Trust;Trustee",""
+
+"Taiwan","TW","","","無限公司","Chinese","zh","Wúxiàn gōngsī","",""
+"Taiwan","TW","","","Unlimited Company","English","en","Unlimited Company","Unltd.",""
+
+"Taiwan","TW","","","有限合伙制","Chinese","zh","Yǒuxiàn héhuǒ zhì","",""
+"Taiwan","TW","","","Limited Partnership","English","en","Limited Partnership","L.P.",""
+
+"Taiwan","TW","","","股份有限公司","Chinese","zh","Gǔfèn yǒuxiàn gōngsī","",""
+"Taiwan","TW","","","Public Limited Corporation","English","en","Public Limited Corporation","P.L.C.",""
+"Taiwan","TW","","","Corporation","English","en","Corporation","Corp.",""
+
+TZ:
+"Tanzania","TZ","","","Company Limited","English","en","Company Limited","Co.,Ltd.",""
+"Tanzania","TZ","","","Private Limited Company","English","en","Private Limited Company","Ltd.",""
+
+UA:
+"Ukraine","UA","","","Державне акціонерне товариство","Ukrainian","uk","Derzhavne aktsionerne tovarystvo","ДАТ","DAT"
+"Ukraine","UA","","","Фізична особа підприємець","Ukrainian","uk","Fizychna osoba pidpryyemets","ФОП","FOP"
+"Ukraine","UA","","","Командитне товариство","Ukrainian","uk","Komandytne tovarystvo","КТ","КТ"
+"Ukraine","UA","","","Повне товариство","Ukrainian","uk","Povne tovarystvo","ПT","PT"
+"Ukraine","UA","","","Товариство з додатковою відповідальністю","Ukrainian","uk","Tovarystvo z dodatkvoiu vidpovidalnistiu","ТДВ","TDV"
+"Ukraine","UA","","","Товариство з обмеженою відповідальністю","Ukrainian","uk","Tovarystvo z obmezhenoiu vidpovidalnistiu","TOB","TOV"
+"Ukraine","UA","","","Приватне підприємство","Ukrainian","uk","Pryvatne pidpryyemstvo","ПП","PP"
+
+"Ukraine","UA","","","Вiдкрите акцiонерне товариство","Ukrainian","uk","Vidkryte aktsionerne tovarystvo","ВАТ","VAT"
+"Ukraine","UA","","","Публічне акціонерне товариство","Ukrainian","uk","Publichne aktsionerne tovarystvo","ПАТ","PAT"
+
+"Ukraine","UA","","","Закрите акцiонерне товариство","Ukrainian","uk","Zakryte Aktsionerne Tovarystvo","ЗАТ","ZAT"
+"Ukraine","UA","","","Приватне акціонерне товариство","Ukrainian","uk","Prytvatne aktsionerne tovarystvo","ПрАТ","PrAT"
+
+"Ukraine","UA","","","Акціонерне товариство","Ukrainian","uk","Aktsionerne tovarystvo","АТ","АТ"
+"Ukraine","UA","","","Joint Stock Company","English","en","Joint Stock Company","J.S.C.",""
+"Ukraine","UA","","","Public Joint Stock Company","English","en","Public Joint Stock Company","P.J.S.C.",""
+
+UG:
+"Uganda","UG","","","Private Limited Company","English","en","Private Limited Company","Ltd.",""
+
+UY:
+"Uruguay","UY","","","Sociedad de Responsabilidad Limitada","Spanish","es","Sociedad de Responsabilidad Limitada","S.L.;S.R.L.;Lda.;Ltda.",""
+"Uruguay","UY","","","Sociedad Anonima","Spanish","es","Sociedad Anonima","S.A.",""
+"Uruguay","UY","","","Cooperativa","Spanish","es","Cooperativa","coop.",""
+
+UZ:
+"Uzbekistan","UZ","","","Масъулияти Чекланган Жамият","Russian","ru","Mas'uliyati Cheklangan Jamiyat","","MChJ"
+"Uzbekistan","UZ","","","Қўшимча масъулиятли жамият","Russian","ru","Qo'shimcha ma'suliyatli jamiyat","","QMJ"
+"Uzbekistan","UZ","","","Акциядорлик жамияти","Russian","ru","Aksiyadorlik jamiyati","","AJ"
+"Uzbekistan","UZ","","","Очиқ акциядорлик жамияти","Russian","ru","Ochiq aksiyadorlik jamiyati","","OAJ"
+"Uzbekistan","UZ","","","Ёпиқ акциядорлик жамияти","Russian","ru","Yopiq aksiyadorlik jamiyati","","YoAJ"
+"Uzbekistan","UZ","","","Хусусий корхона","Russian","ru","Xususiy korxona","","XK"
+"Uzbekistan","UZ","","","Хусусий тадбиркорлик","Russian","ru","Xususiy tadbirkorlik","","XT"
+"Uzbekistan","UZ","","","Оилавий корхона","Russian","ru","Oilaviy korxona","","OK"
+"Uzbekistan","UZ","","","Унитар корхона","Russian","ru","Unitar korxona","","UK"
+"Uzbekistan","UZ","","","Қўшма корхона","Russian","ru","Qo'shma korxona","","QK"
+"Uzbekistan","UZ","","","Public Joint Stock Company","English","en","Public Joint Stock Company","P.J.S.C.",""
+"Uzbekistan","UZ","","","Close Joint Stock Company","English","en","Close Joint Stock Company","C.J.S.C.",""
+
+VC:
+"Saint Vincent and the Grenadines","VC","","","Private Limited Company","English","en","Private Limited Company","Ltd.",""
+"Saint Vincent and the Grenadines","VC","","","Incorporated Corporation","English","en","Incorporated Corporation","Inc. Corp.","" ?
+"Saint Vincent and the Grenadines","VC","","","Limited Liability Company","English","en","Limited Liability Company","L.L.C.",""
+
+VE:
+"Venezuela","VE","","","Compañía Anónima;Sociedad Anónima","Spanish","es","Compania anonima;Sociedad anonima","C.A.;S.A.",""
+"Venezuela","VE","","","Sociedad de Responsabilidad Limitada","Spanish","es","Sociedad de Responsabilidad Limitada","S.L.;S.R.L.",""
+
+VG:
+"Virgin Islands","VG","","","Private Limited Company","English","en","Private Limited Company","Ltd.",""
+"Virgin Islands","VG","","","Incorporated Corporation","English","en","Incorporated Corporation","Inc. Corp.",""
+
+VU:
+"Vanuatu","VU","","","Private Limited Company","English","en","Private Limited Company","Ltd.",""
+"Vanuatu","VU","","","Incorporated Corporation","English","en","Incorporated Corporation","Inc. Corp.",""
+"Vanuatu","VU","","","Trust","English","en","Trust","Trust;Trustee",""
+"Vanuatu","VU","","","Proprietary Limited Company","English","en","Proprietary Limited Company","Pty. Ltd.",""
+
+ZA:
+"GQVQ","South Africa","ZA","","","Privaat Maatskappy","Afrikaans","af","Privaat Maatskappy","",""
+"4YUU","South Africa","ZA","","","Beslote Korporasie","Afrikaans","af","Beslote Korporasie","BK",""
+"XE4Z","South Africa","ZA","","","Publieke Maatskappy","Afrikaans","af","Publieke Maatskappy","",""
+
+ZM:
+"Zambia","ZM","","","Private Limited Company","English","en","Private Limited Company","Ltd.",""
+
+ZW:
+"Zimbabwe","ZW","","","Private Limited Company","English","en","Private Limited Company","Pvt. Ltd.;Ltd.",""
+"Zimbabwe","ZW","","","Trust","English","en","Trust","Trust;Trustee",""

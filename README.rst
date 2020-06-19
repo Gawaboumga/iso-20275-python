@@ -55,12 +55,19 @@ Everything is stored in UTF-8 format.
 Code examples
 -------------
 
-/!\\ Beware /!\\ Two datasets are available within this package. The
-``Elf`` and the ``OriginalElf``, the original one (``OriginalElf``) is a
-mapping of the file without some normalization in the data. This is the
+/!\\ Beware /!\\ Three datasets are available within this package. The
+``Elf``, the ``Elf with additional legal forms`` and the ``Original Elf``, the original one (``Original Elf``) is a
+mapping of the original file without some normalization in the data. This is the
 pure form. Whereas ``Elf`` got some modifications to clean up some
 inputs. See `Differences section <#markdown-header-differences>`__ for
-more details.
+more details. ``Elf with additional legal forms`` consists of the cleaned version (``Elf``) to which the different forms present in the file `Additional legal forms.txt <iso20275/Additional legal forms.txt>`__ have been added.
+
+By default, the package provides ``Elf with additional legal forms``, but you can load the version that you want with:
+
+.. code:: python
+
+
+Elf.load(newest=True, cleaned=False, additional=False)
 
 There exists 220 elements sharing a same ELF code. You need to specify
 which version you would like to use explicitly.
@@ -89,8 +96,8 @@ Differences
 
 Here, we will review which changes were made on the data or remarks were observed.
 
-Original file (OriginalElf)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Original file (Original Elf)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Differences in comparison to the original file.
 
@@ -113,9 +120,20 @@ Modification:
 - ``（`` was replaced by ``(`` and ``）`` by ``)`` in transliterated name (for chinese companies).
 - Parenthesis have been normalized, one space before opening parenthesis and one after the closing one. This concerns essentially pakistanese companies: 	4XMS, 7IYW, 88OX, MOI8, QR25  and RKYF.
 - Change in 6W6X: ``Co-opLtd.`` is now ``Co-op Ltd.``
-- Change in CQ5X and UCU5: Replace ``Ε`` by ``E``.
+- Change in CQ5X and UCU5: Replace ``Ε`` by ``E`` (Greek letter by latin).
 - Change in J8DW: ``Podnik zahr. osoby, org. zložka`` is now ``Podnik zahr. osoby, org. zložka;Podnik zahr. osoby;org. zložka``.
 - Change in L9WT: ``Obec, mesto (o.,m.úrad)`` is now ``Obec, mesto (o.,m.úrad);Obec;mesto;mesto (o.,m.úrad)``.
+- Trimming values.
+
+Modified file with additional legal forms (Elf with additional legal forms)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Differences in comparison to the original file.
+
+Modification:
+^^^^^^^^^^^^^
+
+The file is directly based on the modified file (Elf). We added the different forms present in the file `Additional legal forms.txt <iso20275/Additional legal forms.txt>`__ thanks to the script `merge_additional_legal_forms.py <iso20275/merge_additional_legal_forms.py>`__. This adds many countries, new legal forms in some countries already present, additions to the abbreviations used in some countries as well as legal forms in other languages.
 
 Latin1
 ------

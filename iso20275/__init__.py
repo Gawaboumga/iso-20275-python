@@ -7,7 +7,7 @@ from typing import Sequence, Union
 from functools import singledispatch
 
 
-__version__ = 0, 0, 8
+__version__ = 0, 0, 9
 __all__ = 'Elf',
 
 
@@ -146,25 +146,32 @@ def read_entries_from_csvpath(source:Path):
     return entries
 
 
-rgx = re.compile(r"(?i)^(?P<c>Cleaned)?[ -_]*ISO-20275[ -_]*(?P<t>\d{4}-\d{2}-\d{2})\.csv$")
+rgx = re.compile(r'(?i)^(?P<c>Cleaned)?([ -_]*(?P<a>with additional))?[ -_]*ISO-20275[ -_]*(?P<t>\d{4}-\d{2}-\d{2})\.csv$')
 
-def get_csv_paths(newest=None, cleaned=None, timestamp=None) -> Sequence[Path]:
+def get_csv_paths(newest=None, cleaned=None, additional=None, timestamp=None) -> Sequence[Path]:
     """get provided csv file paths, optionally just newest and/or
     cleaned only and/or ones with given timestamp"""
 
     csvpaths = Path(__file__).resolve().parent.glob('*.csv')
     tested = ((re.match(rgx, csvpath.name), csvpath) for csvpath in csvpaths)
-    results = ((m.group("c"), m.group("t"), csvpath) for m, csvpath in tested if m)
+    results = ((m.group('c'), m.group('a'), m.group('t'), csvpath) for m, csvpath in tested if m)
 
-    if cleaned is True:
-       results = (r for r in results if r[0])
-    elif cleaned is False:
-       results = (r for r in results if not r[0])
+    if additional is True:
+        if cleaned is True:
+            results = (r for r in results if r[0] and r[1])
+        elif cleaned is False:
+            results = (r for r in results if not r[0] and r[1])
+    else:
+        if cleaned is True:
+            results = (r for r in results if r[0] and not r[1])
+        elif cleaned is False:
+            results = (r for r in results if not r[0] and not r[1])
+
     if timestamp:
-       results = (r for r in results if r[1] == timestamp)
+       results = (r for r in results if r[2] == timestamp)
     if newest:
-       results = sorted(results, key=lambda r: r[1], reverse=True)
-       results = (results[0],) if cleaned else results[:2]
+       results = sorted(results, key=lambda r: r[2], reverse=True)
+       results = (results[0],) if cleaned else results[:3]
 
     return tuple((r[-1] for r in results))
 
@@ -175,7 +182,7 @@ class MetaElf(type):
         elfclass = type.__new__(cls, name, bases, clsdct)
 
         # by default, the latest cleaned CSV source is used
-        elfclass._codes = read_entries(get_csv_paths(newest=True, cleaned=True)[0])
+        elfclass._codes = read_entries(get_csv_paths(newest=True, cleaned=True, additional=True)[0])
         return elfclass
 
     def __getitem__(cls, key):
@@ -191,10 +198,10 @@ class MetaElf(type):
 class Elf(object, metaclass=MetaElf):
 
     @classmethod
-    def load(cls, newest=None, cleaned=None, timestamp=None, source:Union[Iterable,Path]=None):
+    def load(cls, newest=None, cleaned=None, additional=None, timestamp=None, source:Union[Iterable,Path]=None):
         "load a particular CSV source (newest/cleaned/timestamp) or a custom file"
         if source is None:
-            source = get_csv_paths(newest=newest, cleaned=cleaned, timestamp=timestamp)[0]
+            source = get_csv_paths(newest=newest, cleaned=cleaned, additional=additional, timestamp=timestamp)[0]
         cls._codes = read_entries(source)
 
     @classmethod

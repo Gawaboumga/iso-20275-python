@@ -64,10 +64,7 @@ more details. ``Elf with additional legal forms`` consists of the cleaned versio
 
 By default, the package provides ``Elf with additional legal forms``, but you can load the version that you want with:
 
-.. code:: python
-
-
-Elf.load(newest=True, cleaned=False, additional=False)
+``Elf.load(newest=True, cleaned=False, additional=False)``
 
 There exists 220 elements sharing a same ELF code. You need to specify
 which version you would like to use explicitly.

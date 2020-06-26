@@ -27,14 +27,15 @@ AI:
 
 AL:
 The a of shoqeria is optional ?
-"Albania","AL","","","Shoqëria Me Përgjegjësi Të Kufizuar","Albanian","sq","Shoqeria me pergjegjesi te kufizuar","Sh.p.k.",""
-"Albania","AL","","","Shoqëri aksionare","Albanian","sq","Shoqeri aksionare","Sh.A.",""
+"Albania","AL","","","Shoqëria Me Përgjegjësi Të Kufizuar","Albanian","sq","Shoqeria me pergjegjesi te kufizuar","Sh.p.k.;Sh. Pk.;ShpK",""
+"Albania","AL","","","Shoqëri aksionare","Albanian","sq","Shoqeri aksionare","Sh.A.;ShA",""
 "Albania","AL","","","Shoqëri komandite","Albanian","sq","Shoqeri komandite","",""
 "Albania","AL","","","Shoqëri kolektive","Albanian","sq","Shoqeri kolektive","",""
 "Albania","AL","","","Zyrë e përfaqësimit","Albanian","sq","Zyre e perfaqesimit","",""
 
 AM:
 "Armenia","AM","","","Open Joint Stock Company","English","en","Open Joint Stock Company","O.J.S.C.",""
+"Armenia","AM","","","Close Joint Stock Company","English","en","Close Joint Stock Company","C.J.S.C.",""
 
 AO:
 "Angola","AO","","","Sociedade por quotas de responsabilidade limitada","Portuguese","pt","Sociedade por quotas de responsabilidade limitada","S.A.R.L.;Lda.",""
@@ -44,15 +45,19 @@ AO:
 
 AR:
 "Argentina","AR","","","Sociedad de Responsabilidad Limitada","Spanish","es","Sociedad de Responsabilidad Limitada","S.L.;S.R.L.;Lda.",""
-"Argentina","AR","","","Sociedad Anonima","Spanish","es","Sociedad Anonima","S.A.",""
+"Argentina","AR","","","Sociedad Anonima","Spanish","es","Sociedad Anonima;Compania anonima","S.A.",""
 "Argentina","AR","","","Sociedad por Acciones Simplificada","Spanish","es","Sociedad por Acciones Simplificada","S.A.S.",""
 "Argentina","AR","","","Sociedad en Comandita Simple","Spanish","es","Sociedad en Comandita Simple","S.C.S.",""
-"Argentina","AR","","","Sociedad en Comandita Por Acciones","Spanish","es","Sociedad en Comandita Por Acciones","S.C.P.A.",""
+"Argentina","AR","","","Sociedad en Comandita Por Acciones","Spanish","es","Sociedad en Comandita Por Acciones","S.C.P.A.;S.C.A.",""
 "Argentina","AR","","","Sociedad Colectiva","Spanish","es","Sociedad Colectiva","Soc.Col.;S.C.;S.R.C.",""
-"Argentina","AR","","","Sociedad de Capital e Industria","Spanish","es","Sociedad de Capital e Industria","S.C.E.I.",""
-"Argentina","AR","","","Sociedad del Estado","Spanish","es","Sociedad del Estado","S.E.",""
+"Argentina","AR","","","Sociedad de Capital e Industria","Spanish","es","Sociedad de Capital e Industria","S.C.E.I.;S.C.I.;S. de C.I.",""
 "Argentina","AR","","","Sociedad del Estado","Spanish","es","Sociedad del Estado","S.E.",""
 "Argentina","AR","","","Sociedad de Garantia Reciproca","Spanish","es","Sociedad de Garantia Reciproca","S.G.R.",""
+"Argentina","AR","","","Associacion coorperadora","Spanish","es","Associacion coorperadora","Coop.;Asoc coop",""
+
+AT:
+"AXSB","Austria","AT","","","Gesellschaft mit beschränkter Haftung","German","de","Gesellschaft mit beschränkter Haftung;Registrierte gesellschaft mit beschränkter haftung","GmbH;Ges.m.b.H.","","2017-11-30","ACTV","","",""
+"Australia","AU","","","Eingetragene Ermerbsgesellschaft","German","de","Eingetragene Ermerbsgesellschaft","EEG",""
 
 AU:
 "Australia","AU","","","Proprietary Limited","English","en","Proprietary Limited","Pty Ltd;P/L",""
@@ -73,7 +78,10 @@ AZ:
 "Azerbaijan","AZ","","","Close Joint Stock Company","English","en","Close Joint Stock Company","C.J.S.C.;Ltd.",""
 "Azerbaijan","AZ","","","General Partnership","English","en","General Partnership","G.P.",""
 "Azerbaijan","AZ","","","Limited Partnership","English","en","Limited Partnership","L.P.",""
+
 "Azerbaijan","AZ","","","Limited Liability Company","English","en","Limited Liability Company","L.L.C.",""
+"Azerbaijan","AZ","","","Mahdud masuliyyatli camiyyati","Azerbaijani","az","mahdud masuliyyatli camiyyati","mmc",""
+
 "Azerbaijan","AZ","","","Additional Liability Company","English","en","Additional Liability Company","A.L.C.",""
 "Azerbaijan","AZ","","","Cooperative","English","en","Cooperative","coop.",""
 
@@ -88,9 +96,13 @@ BA:
 "Bosnia and Herzegovina","BA","","","Akcionarsko društvo","Bosnian","bs","Akcionarsko drustvo","a.d.",""
 "Bosnia and Herzegovina","BA","","","Joint stock company","English","en","Joint Stock Company","j.s.c.",""
 "Bosnia and Herzegovina","BA","","","Samostalni preduzetnik","Bosnian","bs","Samostalni preduzetnik","s.p.",""
+"Bosnia and Herzegovina","BA","","","Autoprevoznik","Bosnian","bs","Autoprevoznik","Auto",""
+"Bosnia and Herzegovina","BA","","","zajednica etažnih vlasnika","Bosnian","bs","zajednica etaznih vlasnika","",""
+"Bosnia and Herzegovina","BA","","","udruženje građana","Bosnian","bs","udruzenje gradana","",""
 
 BB:
 "Barbados","BB","","","Incorporated Cell Company","English","en","Incorporated Cell Company","I.C.C.;Inc.",""
+"Barbados","BB","","","Private Limited Company","English","en","Private Limited Company","Co. Ltd.;Ltd.;Limited",""
 "Barbados","BB","","","Limited Liability Company","English","en","Limited Liability Company","L.L.C.",""
 "Barbados","BB","","","Society with a Restricted Liability","English","en","Society with a Restricted Liability","S.R.L.",""
 "Barbados","BB","","","International Society with a Restricted Liability","English","en","International Society with a Restricted Liability","I.S.R.L.",""
@@ -115,12 +127,21 @@ BE:
 BF:
 "Burkina Faso","BF","","","Société à responsabilité limitée","French","fr","Société à responsabilité limitée","S.A.R.L.",""
 "Burkina Faso","BF","","","Société anonyme","French","fr","Société anonyme","S.A.",""
+"Burkina Faso","BF","","","Société unipersonnelle à responsabilité limitée","French","fr","Société unipersonnelle à responsabilité limitée","S.U.A.R.L.",""
+
+BG:
+"CTCH","Bulgaria","BG","","","Кооперация","Bulgarian","bg","Kooperatsia","","Coop;Koop","2017-11-30","ACTV","","",""
+индивидуална практика за първична медицинска помощ ?
+individualna praktika za pŭrvichna meditsinska pomosht ?
+
+амбулатория за първична медицинска помощ ?
+ambulatoriya za pŭrvichna meditsinska pomosht ?
 
 BH:
 "Bahrain","BH","","","With limited liability","English","en","With limited liability","w.l.l.",""
 "Bahrain","BH","","","Single Person Company","English","en","Single Person Company","S.P.C.",""
-"Bahrain","BH","","","Public shareholding company","English","en","Public shareholding company","B.S.C.",""
-"Bahrain","BH","","","Closed shareholding company","English","en","Closed shareholding company","Closed B.S.C.",""
+"Bahrain","BH","","","Public shareholding company","English","en","Public shareholding company;Public Bahrain shareholding company","B.S.C.",""
+"Bahrain","BH","","","Closed shareholding company","English","en","Closed shareholding company;Closed Bahrain shareholding company","Closed B.S.C.;B.S.C. (Close)",""
 "Bahrain","BH","","","Joint liability company","English","en","Joint liability company","",""
 "Bahrain","BH","","","Private company","English","en","Private company","& co.",""
 "Bahrain","BH","","","Limited Partnership Company","English","en","Limited Partnership Company","",""
@@ -141,10 +162,11 @@ BM:
 "Bermuda","BM","","","Private Limited Company","English","en","Private Limited Company","Ltd.",""
 "Bermuda","BM","","","Limited Partnership","English","en","Limited Partnership","L.P.",""
 "Bermuda","BM","","","Trust","English","en","Trust","Trust;Trustee",""
+SEC 61 M/C ?
 
 BN:
 "Brunei Darussalam","BN","","","Limited Liability Company","English","en","Limited Liability Company","L.L.C.",""
-"Brunei Darussalam","BN","","","Sendirian Berhad","Malay","ms","Sendirian Berhad","Sdn. Bhd.",""
+"Brunei Darussalam","BN","","","Sendirian Berhad","Malay","ms","Sendirian Berhad","Sdn. Bhd.;B. Sdn.;B. Sdn. Bhd.",""
 "Brunei Darussalam","BN","","","Berhad","Malay","ms","Berhad","Bhd.",""
 "Brunei Darussalam","BN","","","Perkongsian Liabiliti Terhad","Malay","ms","Perkongsian Liabiliti Terhad","P.L.T.",""
 

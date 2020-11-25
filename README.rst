@@ -66,7 +66,9 @@ By default, the package provides ``Elf with additional legal forms``, but you ca
 
 ``Elf.load(newest=True, cleaned=False, additional=False)``
 
-There exists 220 elements sharing a same ELF code. You need to specify
+If you don't provide *newest*,  you can access to a previous version with *timestamp* like 2019-11-06. *Cleaned* is when you want the version with some ameliorations, *additional* is based on the *cleaned* version but with the additional legal forms.
+
+There exists 263 elements sharing a same ELF code. You need to specify
 which version you would like to use explicitly.
 
 .. code:: python
@@ -117,12 +119,13 @@ Modification:
 - ``（`` was replaced by ``(`` and ``）`` by ``)`` in transliterated name (for chinese companies).
 - Parenthesis have been normalized, one space before opening parenthesis and one after the closing one. This concerns essentially pakistanese companies: 	4XMS, 7IYW, 88OX, MOI8, QR25  and RKYF.
 - Change in 6W6X: ``Co-opLtd.`` is now ``Co-op Ltd.``
+- Change in 2DGO and EULU: Replace ``"""`` by ``"``
 - Change in CQ5X and UCU5: Replace ``Ε`` by ``E`` (Greek letter by latin).
 - Change in J8DW: ``Podnik zahr. osoby, org. zložka`` is now ``Podnik zahr. osoby, org. zložka;Podnik zahr. osoby;org. zložka``.
 - Change in L9WT: ``Obec, mesto (o.,m.úrad)`` is now ``Obec, mesto (o.,m.úrad);Obec;mesto;mesto (o.,m.úrad)``.
-- Change in X0SX: ``tksz,;hsz.`` is now ``tksz,;tkzs.;hsz.``
-- Change in HBQK: Addition of abbreviations: ``AIF - Sub scheme;AIF``.
-- Change in JKJX: Replace ``/`` with ``;``.
+- Change in X0SX: ``tksz,;hsz.`` is now ``tksz,;tksz.;hsz.``
+- Change in HBQK: Addition of abbreviations: ``AIF - Sub scheme;AIF Scheme;AIF``.
+- Change in JKJX and K361: Replace ``/`` with ``;``.
 - ``México`` has been replaced by ``Mexico``.
 - Trimming values.
 
@@ -192,6 +195,7 @@ One can found the following characters, in addition to the previously described,
 Differences between the version 1.1 of 2019-11-06 and the 1.2 of 2020-06-10:
 
 New countries:
+
 - Azerbaijan
 - Bahamas
 - Belarus
@@ -226,6 +230,7 @@ New countries:
 - Tonga
 
 Additions:
+
 - Australia: 7TPC and ADXG.
 - Austria: E9OX.
 - Canada: 16GH, 16RL, 1VTA, 27WJ, 2ODA, 30IT, 3C5P, 3FP6, 4B4B, 50Z9, 52CK, 6ZCO, 702U, 87OW, 95EN, 9CB2, 9CEN, 9IF2, AS7L, CG81, D2T8, F9CT, GAMO, HVWR, I3UX, J5SC, JBU2, JIV4, JLE0, JLZW, JQNA, JVMD, JXO5, K08P, , L26C, L3XH, LN3N, MCY8, MK1I, MQT7, MR95, NVXN, OMUP, Q8NY, RC3D, RPGT, S72N, TA7J, TKAB, UVCG, V5IH, V9GU, VGP6, VRVJ, WGEA, XS49, XW5K, YMBJ, YIIS, ZGEX, ZQQU, ZX1F.
@@ -242,6 +247,7 @@ Additions:
 - United States of America: CR3H, CWRI, HFGV, HN8W, V65U, WDT2, 9A4Q, BRO8, D4YS, K2BJ, M886, OVBT, TRS2, VXDE, 1K9U, EJX1, KGZ8, LD2M, M4FO, MJJZ, 5HQ4, 7CDL, BADE, CVXK, EI4J, G1P6, H1UM, K7YU, PZR6, SQ7B, 81WV, BC32, HLCG, I3Z9, L10T, M64D, OWR6, PDLV, WE9D, ZCHO, 7W53, JKOT, L7HH, LKQ2, SHCN, T80N, Y182, 3N55, 5DS0, 8N21, D155, TRI2, 6IIM, QD0H, QSC7, MFYJ, S7VR, 530K, EVE6, QLWR, RU6X, U9HL, UK9P, 1WZP, 8RLE, AZUK, F5VL, HSPI, VUXH, 32AX, 7XPF, DU35, HPKC, HUSW, L22N, VVPD, 8YBQ, NDBR, O4NK? U7GR, WPCN, XST3, 1ADA, 21OE, 7F5B, EMLK, KC7Z, R8SH, SUST, 1S9L, 30PQ, 30TX, 40SO, 5AE9, 5MRP, 7OS8, A770, HEMZ, KPH8, L1PM, MY98, OOX5, PNF3, QB0A, SCX8, T91C, WRF9, 62L3, 7K6U, 8WM4, IY8C, MM8M, SUEQ, 520I, 6M6O, 9M2Q, G66U, 0J9K, P3LZ, RCNI, S97G, 7HY7, FFBM, P7RH, T4M6, XSNP, 4YOA, 7GMS, VG3S, W0U4, 51RC, BO6L, PJ10, SDX0, XIZI, B8XC, BGH4, OJDX, PQXK, VJXH, 3JTE, 9C19, 9EJ6, B8KO, HSEV, 5E0K, 7RLC, AVLE, DRSE, FW66, MG8V, N263, QMI2, RZ5R, Z54A, ZHZP, 11GD, 7QV2, DBGD, G0HE, G6VI, N10D, PNSZ, WTWK, 15JS, C276, JZWN, UX5E, Z9CH, 7TJ1, 8MBD, DQUB, I2XB, QJ9F, RD1T, 9AAS, C5K7, FE1L, MXWB, WYG5, 1CZS, 2I4P, 3ZXC, 7H0X, B12O, GIN3, IDFN, NOBH, Q1N4, T0XH, UEKV, YQLO, 8XNO, GZMZ, K4MF, NYUD, OE6T, PNZI, R8O9, TCC0, UF6Y, F8DD, LBJ1, NHYA, RR8H, RRXD, DURX, IJHI, O9MN, OJBU, PXGA, QDZK, RC5L, 6S32, C0CR, EVBW, M5RM, WNV6, Z92A, ZXZ7, 1YA4, 71ZI, 9GXA, NB58, PUJR, QR4Y, RDQZ, A35I, JTJE, WMJ9, 6EH6, BST2, GLCI, JS65, N28C, Q62B, YOP9, ZHED, A30N, AN8Z, CHWX, DMNZ, MGUM, MH3L, NNLM, PKZ2, Q367, SOX5, TA9Z, UZ9W.
 
 Deprecated:
+
 - Belgium: 3LMA.
 - Bonaire, Sint Eustatius and Saba: JFQ5.
 - Bulgaria: 3HLJ, 45D7, 9F78, O15N.
@@ -251,6 +257,24 @@ Deprecated:
 - Switzerland: 2WFG, JB25, R9TC, UNA9.
 - United Kingdom: 1W62, A2X8, C605, CDOT, FVGZ, HX6D, TYJK, UTY8, WBQU, WJ0A, ZZGG.
 
+Differences between the version 1.2 of 2020-06-10 and the 1.3 of 2020-11-19:
 
-Written by `Youri Hubaut <https://github.com/Gawaboumga>`__ and `Petri Savolainen <https://github.com/petri>`__.
+New countries:
+
+- Jordan
+
+Additions:
+
+- Argentina: F0A6, HZ6C, WUAZ.
+- Canada: 8ZH8, 3Q15, translations of some legal forms.
+- Germany: YJ4C.
+- Mexico: 2RVP, 761Z, 8QZA, CU68, JRAQ, MAM6, TTIF, W9WS, XDGC.
+- Russia: 9M15, MT3A.
+- Spain: R6UT.
+
+Deprecated:
+
+- Puerto rico: All existing ELF codes for Puerto Rico replaced with new codes to solve situation with incorrect pairing of the same legal form in 2 languages.
+
+Written by `Youri Hubaut <https://github.com/Gawaboumga>`__.
 Distributed under MIT license.

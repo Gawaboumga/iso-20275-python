@@ -45,7 +45,7 @@ AO:
 
 AR:
 "Argentina","AR","","","Sociedad de Responsabilidad Limitada","Spanish","es","Sociedad de Responsabilidad Limitada","S.L.;S.R.L.;Lda.",""
-"Argentina","AR","","","Sociedad Anonima","Spanish","es","Sociedad Anonima;Compania anonima","S.A.",""
+"F0A6","Argentina","AR","","","Sociedad Anonima","Spanish","es","Sociedad Anonima;Compania anonima","S.A.","","2020-11-19","ACTV","","",""
 "Argentina","AR","","","Sociedad por Acciones Simplificada","Spanish","es","Sociedad por Acciones Simplificada","S.A.S.",""
 "Argentina","AR","","","Sociedad en Comandita Simple","Spanish","es","Sociedad en Comandita Simple","S.C.S.",""
 "Argentina","AR","","","Sociedad en Comandita Por Acciones","Spanish","es","Sociedad en Comandita Por Acciones","S.C.P.A.;S.C.A.",""
@@ -57,18 +57,18 @@ AR:
 
 AT:
 "AXSB","Austria","AT","","","Gesellschaft mit beschränkter Haftung","German","de","Gesellschaft mit beschränkter Haftung;Registrierte gesellschaft mit beschränkter haftung","GmbH;Ges.m.b.H.","","2017-11-30","ACTV","","",""
-"Australia","AU","","","Eingetragene Ermerbsgesellschaft","German","de","Eingetragene Ermerbsgesellschaft","EEG",""
+"Austria","AT","","","Eingetragene Ermerbsgesellschaft","German","de","Eingetragene Ermerbsgesellschaft","EEG",""
 
 AU:
-"Australia","AU","","","Proprietary Limited","English","en","Proprietary Limited","Pty Ltd;P/L",""
+"TXVC","Australia","AU","","","Limited Proprietary Company","English","en","Limited Proprietary Company","Pty Ltd;P/L","","2017-11-30","ACTV","","",""
 "Australia","AU","","","Unlimited Proprietary","English","en","Unlimited Proprietary","Pty",""
 "Australia","AU","","","General Partnership","English","en","General Partnership","G.P.",""
 "Australia","AU","","","Limited Liability Partnership","English","en","Limited Liability Partnership","L.L.P.",""
-"Australia","AU","","","Limited Partnership","English","en","Limited Partnership","L.P.",""
+"J4JC","Australia","AU","","","Limited Partnership","English","en","Limited Partnership","L.P.","","2017-11-30","ACTV","","",""
 "Australia","AU","","","Incorporated Limited Partnership","English","en","Incorporated Limited Partnership","I.L.P.",""
 "Australia","AU","","","Sole trader","English","en","Sole Trader","",""
-"Australia","AU","","","Trust","English","en","Trust","Trust;Trustee",""
-"Australia","AU","","","No liability","English","en","No liability","N.L.",""
+"7TPC","Australia","AU","","","Trust","English","en","Trust","Trust;Trustee","","2020-06-10","ACTV","","",""
+"PQHL","Australia","AU","","","No Liability Company","English","en","No Liability Company","N.L.","","2017-11-30","ACTV","","",""
 
 AW:
 "REUP","Aruba","AW","","","Aruba Exempt Corporation","English","en","Aruba Exempt Company","A.E.C.;AVV;avv;A.V.V.;a.v.v.","","2017-11-30","ACTV","","",""
@@ -80,7 +80,7 @@ AZ:
 "Azerbaijan","AZ","","","Limited Partnership","English","en","Limited Partnership","L.P.",""
 
 "Azerbaijan","AZ","","","Limited Liability Company","English","en","Limited Liability Company","L.L.C.",""
-"Azerbaijan","AZ","","","Mahdud masuliyyatli camiyyati","Azerbaijani","az","mahdud masuliyyatli camiyyati","mmc",""
+"6JHZ","Azerbaijan","AZ","","","Məhdud məsuliyyətli cəmiyyəti","Azerbaijani","az","mahdud masuliyyatli camiyyati","mmc","","2020-06-10","ACTV","","",""
 
 "Azerbaijan","AZ","","","Additional Liability Company","English","en","Additional Liability Company","A.L.C.",""
 "Azerbaijan","AZ","","","Cooperative","English","en","Cooperative","coop.",""
@@ -172,8 +172,8 @@ BN:
 
 BO:
 "Bolivia","BO","","","Sociedad de responsabilidad limitada","Spanish","es","Sociedad de responsabilidad limitada","S.R.L.;Ltda.","L.L.C."
-"Bolivia","BO","","","Sociedad anonima","Spanish","es","Sociedad anonima","S.A.",""
-"Bolivia","BO","","","Sociedad en comandita simple","Spanish","es","Sociedad en comandita simple","S.C.S.","L.L.P."
+"5T3W","Bolivia","BO","","","Sociedad Anónima","Spanish","es","Sociedad anonima","S.A.","","2020-06-10","ACTV","","",""
+"XTCQ","Bolivia","BO","","","Sociedad en Comandita Simple","Spanish","es","Sociedad en comandita simple","S.C.S.","L.L.P.","2020-06-10","ACTV","","",""
 "Bolivia","BO","","","Oficina de Representacion","Spanish","es","Oficina de Representacion","",""
 "Bolivia","BO","","","Representative Office","English","en","Representative Office","",""
 "Bolivia","BO","","","Sucursal","Spanish","es","Sucursal","",""
@@ -181,17 +181,17 @@ BO:
 
 BR:
 "Brazil","BR","","","Sociedade limitada","Portuguese","pt","Sociedade limitada","S.R.L.;Ltda.",""
-"Brazil","BR","","","Sociedade anónima","Portuguese","pt","Sociedade anónima","S.A.",""
-"Brazil","BR","","","Sociedade em Comandita Simples","Portuguese","pt","Sociedade em Comandita Simples","S.C.S.",""
+"X0SD","Brazil","BR","","","Sociedade Anônima","Portuguese","pt","Sociedade anónima","S.A.","","2020-06-10","ACTV","","",""
+"WBEC","Brazil","BR","","","Sociedade em Comdandita Simples","Portuguese","pt","Sociedade em Comandita Simples","S.C.S.","","2020-06-10","ACTV","","",""
 "Brazil","BR","","","Sociedade em Nome Coletivo","Portuguese","pt","Sociedade em Nome Coletivo","S.N.C.",""
 "Brazil","BR","","","Sociedade em conta de participação","Portuguese","pt","Sociedade em conta de participação","",""
 "Brazil","BR","","","Sociedade em comum","Portuguese","pt","Sociedade em comum","",""
 "Brazil","BR","","","Cooperativa","Portuguese","pt","Cooperativa","",""
 "Brazil","BR","","","Empresa individual","Portuguese","pt","Empresa individual","",""
 "Brazil","BR","","","Firma individual","English","en","Firma individual","",""
-"Brazil","BR","","","Empresa Individual de Responsabilidade Limitada","Portuguese","pt","Empresa Individual de Responsabilidade Limitada","E.I.R.E.L.I.",""
+"OB5J","Brazil","BR","","","Empresa Individual de Responsabilidade Limitada","Portuguese","pt","Empresa Individual de Responsabilidade Limitada","E.I.R.E.L.I.","","2020-06-10","ACTV","","",""
 "Brazil","BR","","","Micro empreendedor individual","Portuguese","pt","Micro empreendedor individual","",""
-"Brazil","BR","","","Empresa pública","Portuguese","pt","Empresa pública","",""
+"4LKN","Brazil","BR","","","Empresa Pública","Portuguese","pt","Empresa pública","","","2020-06-10","ACTV","","",""
 "Brazil","BR","","","Sociedade de economia mista","Portuguese","pt","Sociedade de economia mista","",""
 "Brazil","BR","","","Associação em sentido estrito (sem finalidade lucrativa)","Portuguese","pt","Associação em sentido estrito (sem finalidade lucrativa)","",""
 "Brazil","BR","","","Organização não governamental","Portuguese","pt","Organização não governamental","",""
@@ -203,10 +203,10 @@ BR:
 
 BS:
 "Bahamas","BS","","","Private Limited Company","English","en","Private Limited Company","Limited;Ltd.",""
-"Bahamas","BS","","","Limited Liability Company","English","en","Limited Liability Company","L.L.C.",""
+"1W6I","Bahamas","BS","","","Limited Liability Partnership","English","en","Limited Liability Company","L.L.C.","","2020-06-10","ACTV","","",""
 "Bahamas","BS","","","Joint Venture","English","en","Joint Venture","J.V.",""
-"Bahamas","BS","","","Foundation","English","en","Foundation","",""
-"Bahamas","BS","","","International Business Corporation","English","en","International Business Corporation","I.B.C.;IBC",""
+"VVOW","Bahamas","BS","","","Foundation","English","en","Foundation","","","2020-06-10","ACTV","","",""
+"A9N4","Bahamas","BS","","","International Business Company","English","en","International Business Corporation","I.B.C.;IBC","","2020-06-10","ACTV","","",""
 
 BT:
 "Bhutan","BT","","","Private limited company","English","en","Private limited company","Pvt. Ltd.",""
@@ -220,34 +220,36 @@ BW:
 BY:
 "Belarus","BY","","","Individual entrepreneur","English","en","Individual entrepreneur","I.E.",""
 "Belarus","BY","","","Peasant Farm","English","en","Peasant Farm","P.F.",""
-"Belarus","BY","","","Unitary Enterprise","English","en","Unitary Enterprise","U.E.",""
-"Belarus","BY","","","Частное унитарное предприятие","Belarusian","be","Частное унитарное предприятие","ЧУП",""
+"9X63","Belarus","BY","","","Unitary Enterprise","English","en","Unitary Enterprise","U.E.","","2020-06-10","ACTV","","",""
+"9X63","Belarus","BY","","","унитарное предприятие","Belarusian","be","unitarnoye predpriyatiye","УП","","2020-06-10","ACTV","","",""
 
 "Belarus","BY","","","Private Unitary Enterprise","English","en","Unitary Enterprise","P.U.E.",""
-"Belarus","BY","","","Прыватнае унітарнае прадпрыемства","Belarusian","be","Прыватнае унітарнае прадпрыемства","ПУП",""
-"Belarus","BY","","","Частное унитарное предприятие","Russian","ru","Частное унитарное предприятие","ЧУП",""
+"Belarus","BY","","","Прыватнае унітарнае прадпрыемства","Belarusian","be","Pryvatnaje unitarnaje pradpryjemstva","ПУП","pup"
+"Belarus","BY","","","Частное унитарное предприятие","Russian","ru","Chastnoye unitarnoye predpriyatiye","ЧУП","chup;chtsup"
 
 "Belarus","BY","","","Production Cooperative","English","en","Production Cooperative","P.C.",""
 
-"Belarus","BY","","","Індывідуальны прадпрымальнік","Belarusian","be","Індывідуальны прадпрымальнік","",""
-"Belarus","BY","","","Индивидуальный предприниматель","Russian","ru","Индивидуальный предприниматель","",""
+"Belarus","BY","","","Індывідуальны прадпрымальнік","Belarusian","be","Indyviduaĺny pradprymaĺnik","",""
+"Belarus","BY","","","Индивидуальный предприниматель","Russian","ru","Individual'nyy predprinimatel'","",""
 
-"Belarus","BY","","","Адкрытае акцыянернае таварыства","Belarusian","be","Адкрытае акцыянернае таварыства","ААТ",""
-"Belarus","BY","","","Открытое акционерное общество","Russian","ru","Открытое акционерное общество","OAO",""
+"Belarus","BY","","","Адкрытае акцыянернае таварыства","Belarusian","be","Adkrytaje akcyjaniernaje tavarystva","ААТ","ATT"
+"Belarus","BY","","","Открытое акционерное общество","Russian","ru","Otkrytoye aktsionernoye obshchestvo","OAO","OAO"
 
-"Belarus","BY","","","Закрытае акцыянернае таварыства","Belarusian","be","Закрытае акцыянернае таварыства","ЗАТ",""
-"Belarus","BY","","","Закрытое акционерное общество","Russian","ru","Закрытое акционерное общество","ЗАО",""
+"106J","Belarus","BY","","","Закрытае акцыянернае таварыства","Belarusian","be","Zakrytaje akcyjaniernaje tavarystva","ЗАТ","ZAT","2020-06-10","ACTV","","",""
+"106J","Belarus","BY","","","Закрытое акционерное общество","Russian","ru","Zakrytoye aktsionernoye obshchestvo","ЗАО","ZAO","2020-06-10","ACTV","","",""
 
 "Belarus","BY","","","Additional Liability Company","English","en","Additional Liability Company","A.L.C.",""
 "Belarus","BY","","","Limited Liability Company","English","en","Limited Liability Companyr","L.L.C.",""
 "Belarus","BY","","","Open Joint Stock Company","English","en","Open Joint Stock Company","O.J.S.C.",""
 "Belarus","BY","","","Closed Joint Stock Company","English","en","Closed Joint Stock Company","O.J.S.C.",""
 
-"Belarus","BY","","","Таварыства з абмежаванай адказнасцю","Belarusian","be","Таварыства з абмежаванай адказнасцю","ТАА",""
-"Belarus","BY","","","Общество с ограниченной ответственностью","Russian","ru","Общество с ограниченной ответственностью","OOO",""
+"AABD","Belarus","BY","","","Таварыства з абмежаванай адказнасцю","Belarusian","be","Tavarystva z abmiežavanaj adkaznasciu","ТАА","","2020-06-10","ACTV","","",""
+"AABD","Belarus","BY","","","Общество с ограниченной ответственностью","Russian","ru","Obshchestvo s ogranichennoy otvetstvennost'yu","OOO","","2020-06-10","ACTV","","",""
+
+"Belarus","BY","","","ПОТРЕБИТЕЛЬСКИЙ КООПЕРАТІВ ПО ГАЗИФІКАЦІЇ","Belarusian","be","Potrebitel'skii kooperativ vo gazifikatsii","ПКГ","pkg"
 
 BZ:
-"Belize","BZ","","","International Business Corporation","English","en","International Business Corporation","I.B.C.;IBC",""
+"84DD","Belize","BZ","","","International Business Company","English","en","International Business Corporation","I.B.C.;IBC","","2020-06-10","ACTV","","",""
 "Belize","BZ","","","Limited Liability Company","English","en","Limited Liability Company","L.L.C.",""
 "Belize","BZ","","","Trust","English","en","Trust","Trust;Trustee",""
 
@@ -289,17 +291,17 @@ CM:
 "Cameroon","CM","","","Cooperative","French","fr","Cooperative","coop.",""
 
 CO:
-"Colombia","CO","","","Sociedad de responsabilidad limitada","Spanish","es","Sociedad de responsabilidad limitada","S.R.L.;Ltda.","L.L.C."
-"Colombia","CO","","","Sociedad por Acciones Simplificada","Spanish","es","Sociedad por Acciones Simplificada","S.A.S.",""
+"WX45","Colombia","CO","","","Sociedad de Responsabilidad Limitada","Spanish","es","Sociedad de responsabilidad limitada","S.R.L.;Ltda.","L.L.C.","2020-06-10","ACTV","","",""
+"KYVO","Colombia","CO","","","Sociedad por Acciones Simplificada","Spanish","es","Sociedad por Acciones Simplificada","S.A.S.","","2020-06-10","ACTV","","",""
 "Colombia","CO","","","Cooperativa","Spanish","es","Cooperativa","coop.",""
-"Colombia","CO","","","Sociedad collectiva","Spanish","es","Sociedad collectiva","S.C.",""
-"Colombia","CO","","","Sociedad en comandita simple","Spanish","es","Sociedad en comandita simple","S. en C.S.;S. en C.",""
-"Colombia","CO","","","Sociedad en comandita por accionnes","Spanish","es","Sociedad en comandita por accionnes","S. en C.A.;S.C.A.",""
-"Colombia","CO","","","Empresa unipersonal","Spanish","es","Empresa unipersonal","E.U.",""
+"DEJ0","Colombia","CO","","","Sociedad Colectiva","Spanish","es","Sociedad collectiva","S.C.","","2020-06-10","ACTV","","",""
+"IUIY","Colombia","CO","","","Sociedad en comandita simple","Spanish","es","Sociedad en comandita simple","S. en C.S.;S. en C.","","2020-06-10","ACTV","","",""
+"N1TE","Colombia","CO","","","Sociedad en comandita por acciones","Spanish","es","Sociedad en comandita por accionnes","S. en C.A.;S.C.A.","","2020-06-10","ACTV","","",""
+"1PAD","Colombia","CO","","","Empresa Unipersonal","Spanish","es","Empresa unipersonal","E.U.","","2020-06-10","ACTV","","",""
 
 CR:
-"Costa rica","CR","","","Sociedad anonima","Spanish","es","Sociedad anonima","S.A.",""
-"Costa rica","CR","","","Sociedad de responsabilidad limitada","Spanish","es","Sociedad de responsabilidad limitada","S.R.L.;Ltda.","L.L.C."
+"YOIW","Costa Rica","CR","","","Sociedad Anónima","Spanish","es","Sociedad anonima","S.A.","","2020-06-10","ACTV","","",""
+"P864","Costa Rica","CR","","","Sociedad de Responsabilidad Limitada o Sociedad Limitada","Spanish","es","Sociedad de responsabilidad limitada","S.R.L.;Ltda.","L.L.C.","2020-06-10","ACTV","","",""
 "Costa rica","CR","","","Cooperativa a responsabilidad limitada","Spanish","es","Cooperativa a responsabilidad limitada","Cooperativa a R.L.;Cooperativa R.L.;C.R.L.",""
 
 CU:
@@ -359,9 +361,8 @@ DZ:
 "Algeria","DZ","","","Société en commandité simple","French","fr","Société en commandité simple","S.C.S.",""
 
 EC:
-"Ecuador","EC","","","Sociedad anonima","Spanish","es","Sociedad anonima","S.A.",""
-"Ecuador","EC","","","Compania limitada","Spanish","es","Compania limitada","C.L.;C. Ltda.;Cia. Ltda.",""
-"Ecuador","EC","","","Compania anonima","Spanish","es","Compania anonima","C.A.",""
+"J3T2","Ecuador","EC","","","Compañía Anónima","Spanish","es","Sociedad anonima;Compania anonima","S.A.","","2020-06-10","ACTV","","",""
+"XOAD","Ecuador","EC","","","Compañía de Responsabilidad Limitada","Spanish","es","Compania limitada","C.L.;C. Ltda.;Cia. Ltda.","","2020-06-10","ACTV","","",""
 "Ecuador","EC","","","Cooperativa","Spanish","es","Cooperativa","coop.",""
 
 EG:
@@ -377,7 +378,7 @@ ER:
 ES:
 "Spain","ES","","","Sociedad Anónima Deportiva","Spanish","es","Sociedad Anónima Deportiva","S.A.D.",""
 "Spain","ES","Catalonia","ES-CT","Sociedad Cooperativa Catalana Limitada","Spanish","es","Sociedad Cooperativa Catalana Limitada","S.C.C.L.",""
-"Spain","ES","","","Sociedad Limitada Unipersonal","Spanish","es","Sociedad Limitada Unipersonal","S.L.U.",""
+"R6UT","Spain","ES","","","Sociedad Limitada Unipersonal","Spanish","es","Sociedad Limitada Unipersonal","S.L.U.","","2020-11-19","ACTV","","",""
 
 ET:
 "Ethiopia","ET","","","Private Limited Company","English","en","Private Limited Company","PLC;Pvt. Ltd. Co.",""
@@ -396,14 +397,14 @@ FM:
 FR:
 "France","FR","","","Entreprise individuelle","French","fr","Entreprise individuelle","E.I.",""
 "France","FR","","","Entreprise individuelle à responsabilité limitée","French","fr","Entreprise individuelle à responsabilité limitée","E.I.R.L.",""
-"France","FR","","","Société civile d'exploitation agricole","French","fr","Société civile d'exploitation agricole","S.C.E.A.",""
+"M673","France","FR","","","Société civile d'exploitation agricole","French","fr","Société civile d'exploitation agricole","S.C.E.A.","","2017-11-30","ACTV","","",""
 "France","FR","","","Société civile d'exploitation viticole","French","fr","Société civile d'exploitation viticole","S.C.E.V.",""
-"France","FR","","","Société d'exercice libéral à responsabilité limitée","French","fr","Société d'exercice libéral à responsabilité limitée","SELARL",""
+"J9OZ","France","FR","","","Société d'exercice libéral à responsabilité limitée","French","fr","Société d'exercice libéral à responsabilité limitée","SELARL","","2017-11-30","ACTV","","",""
 "France","FR","","","Société civile immobilière de construction vente","French","fr","Société civile immobilière de construction vente","S.C.I.C.V.",""
 "France","FR","","","Société civile de construction vente","French","fr","Société civile de construction vente","S.C.C.V.",""
 "France","FR","","","Auto-entrepreneur","French","fr","Auto-entrepreneur","A.E.",""
 
-"LARO","France","FR","","","Société par actions simplifiée à associé unique;société par actions simplifiée unipersonnelle","French","fr","Société par actions simplifiée à associé unique;société par actions simplifiée unipersonnelle","S.A.S.U.","","2017-11-30","ACTV","","",""
+"LARO","France","FR","","","Société par actions simplifiée à associé unique ou société par actions simplifiée unipersonnelle","French","fr","Société par actions simplifiée à associé unique;société par actions simplifiée unipersonnelle","S.A.S.U.","","2017-11-30","ACTV","","",""
 "R0B6","France","FR","","","Groupement d'intérêt économique (GIE)","French","fr","Groupement d'intérêt économique (GIE)","G.I.E.","","2017-11-30","ACTV","","",""
 
 GA:
@@ -450,11 +451,11 @@ GR:
 "Greece","GR","","","Ομόρρυθμη Βιομηχανική Εμπορική Εταιρεία","Greek","el","Omórrithmi Viomichanikí Emborikí Etaireía","OBEE","OVEE"
 
 GT:
-"Guatemala","GT","","","Sociedad anonima","Spanish","es","Sociedad anonima","S.A.",""
-"Guatemala","GT","","","Sociedad collectiva","Spanish","es","Sociedad collectiva","S.C.",""
-"Guatemala","GT","","","Sociedad de responsabilidad limitada","Spanish","es","Sociedad de responsabilidad limitada","S.R.L.;Ltda.","L.L.C."
-"Guatemala","GT","","","Sociedad en comandita simple","Spanish","es","Sociedad en comandita simple","S. en C.S.;S. en C.",""
-"Guatemala","GT","","","Sociedad en comandita por accionnes","Spanish","es","Sociedad en comandita por accionnes","S. en C.A.;S.C.A.",""
+"XH5R","Guatemala","GT","","","Sociedad Anónima","Spanish","es","Sociedad anonima","S.A.","","2020-06-10","ACTV","","",""
+"GY0L","Guatemala","GT","","","Sociedad Colectiva","Spanish","es","Sociedad collectiva","S.C.","","2020-06-10","ACTV","","",""
+"RK88","Guatemala","GT","","","Sociedad de Responsabilidad Limitada","Spanish","es","Sociedad de responsabilidad limitada","S.R.L.;Ltda.","L.L.C.","2020-06-10","ACTV","","",""
+"W9T7","Guatemala","GT","","","Sociedad en Comandita Simple","Spanish","es","Sociedad en comandita simple","S. en C.S.;S. en C.","","2020-06-10","ACTV","","",""
+"F0IC","Guatemala","GT","","","Sociedad en Comandita por Acciones","Spanish","es","Sociedad en comandita por accionnes","S. en C.A.;S.C.A.","","2020-06-10","ACTV","","",""
 "Guatemala","GT","","","Sociedad de Emprendimiento","Spanish","es","Sociedad de Emprendimiento","S.E.",""
 
 GW:
@@ -468,9 +469,9 @@ t/a ?
 t/as ?
 
 HN:
-"Honduras","HN","","","Sociedad Anónima","Spanish","es","Sociedad Anónima","S.A.",""
+"JUDZ","Honduras","HN","","","Sociedad Anónima","Spanish","es","Sociedad Anónima","S.A.","","2020-06-10","ACTV","","",""
 "Honduras","HN","","","Sociedad Anónima de Capital Variable","Spanish","es","Sociedad Anónima","S.A. de C.V.;SA de CV",""
-"Honduras","HN","","","Sociedad de responsabilidad limitada","Spanish","es","Sociedad de responsabilidad limitada","S.R.L.;Ltda.",""
+"XE7O","Honduras","HN","","","Sociedad de Responsabilidad Limitada","Spanish","es","Sociedad de responsabilidad limitada","S.R.L.;Ltda.","","2020-06-10","ACTV","","",""
 "Honduras","HN","","","Sociedad de responsabilidad limitada de Capital Variable","Spanish","es","Sociedad de responsabilidad limitada de Capital Variable","S.R.L. de C.V.;S. de R.L. de C.V.;S de RL de CV",""
 
 HR:
@@ -540,7 +541,7 @@ IS:
 "Iceland","IS","","","Opinbert hlutafélag","Icelandic","is","Opinbert hlutafélag","O.H.F.",""
 "Iceland","IS","","","Sameignarfélag","Icelandic","is","Sameignarfélag","S.F.",""
 "Iceland","IS","","","Einstaklingsfyrirtæki","Icelandic","is","einstaklingsfyrirtæki","",""
-"Iceland","IS","","","Samlagsfélag","Icelandic","is","Samlagsfélag","S.A.F.",""
+"8T79","Iceland","IS","","","Samlagsfélag","Icelandic","is","Samlagsfélag","S.A.F.","","2017-11-30","ACTV","","",""
 "Iceland","IS","","","Samvinnufélag","Icelandic","is","Samvinnufélag","S.V.",""
 "Iceland","IS","","","Sjálfseignarstofnun","Icelandic","is","Sjálfseignarstofnun","S.F.S.",""
 
@@ -565,10 +566,9 @@ maybe s of selskokhozyaystvennyy ?
 
 KH:
 "Cambodia","KH","","","Import export co ltd","English","en","Import export co ltd","",""
-"Cambodia","KH","","","Private Limited Company","English","en","Private Limited Company","P.L.C. Ltd.;PLC Ltd",""
-"Cambodia","KH","","","Single Member Private Limited Company","English","en","Single Member Private Limited Company","S.M. Pte. Ltd.",""
-"Cambodia","KH","","","Private Limited Company","English","en","Private Limited Company","Pte. Ltd.",""
-"Cambodia","KH","","","Limited Partnership","English","en","Limited Partnership","L.P.",""
+"15BP","Cambodia","KH","","","Private Limited Company","English","en","Private Limited Company","P.L.C. Ltd.;PLC Ltd;Pte. Ltd.","","2020-06-10","ACTV","","",""
+"KD84","Cambodia","KH","","","Sole Proprietorship","English","en","Single Member Private Limited Company","S.M. Pte. Ltd.","","2020-06-10","ACTV","","",""
+"D3UY","Cambodia","KH","","","Limited Partnership","English","en","Limited Partnership","L.P.","","2020-06-10","ACTV","","",""
 "Cambodia","KH","","","Public Establishment with Economic characteristics","English","en","Public Establishment with Economic characteristics","P.E.E.C.",""
 
 KI:
@@ -585,20 +585,20 @@ KN:
 KR:
 "Korea","KR","","","Company Limited","English","en","Company Limited","Co., Ltd.",""
 
-"Korea","KR","","","주식회사","Korean","ko","Jusik hoesa","",""
-"Korea","KR","","","株式會社","Chinese","zh","Jusik hoesa","",""
+"5RCH","Korea","KR","","","주식회사","Korean","ko","Jusik hoesa","","","2020-06-10","ACTV","","",""
+"5RCH","Korea","KR","","","株式會社","Chinese","zh","Jusik hoesa","","","2020-06-10","ACTV","","",""
 
-"Korea","KR","","","유한회사","Korean","ko","Yuhan hoesa","",""
-"Korea","KR","","","有限會社","Chinese","zh","Yuhan hoesa","",""
+"J3U5","Korea","KR","","","유한회사","Korean","ko","Yuhan hoesa","","","2020-06-10","ACTV","","",""
+"J3U5","Korea","KR","","","有限會社","Chinese","zh","Yuhan hoesa","","","2020-06-10","ACTV","","",""
 
-"Korea","KR","","","유한책임회사","Korean","ko","Yuhan chaeg-im hoesa","",""
-"Korea","KR","","","有限責任會社","Chinese","zh","Yuhan chaeg-im hoesa","",""
+"UDJG","Korea","KR","","","유한책임회사","Korean","ko","Yuhan chaeg-im hoesa","","","2020-06-10","ACTV","","",""
+"UDJG","Korea","KR","","","有限責任會社","Chinese","zh","Yuhan chaeg-im hoesa","","","2020-06-10","ACTV","","",""
 
-"Korea","KR","","","합자회사","Korean","ko","Hapja hoesa","",""
-"Korea","KR","","","合資會社","Chinese","zh","Hapja hoesa","",""
+"BW92","Korea","KR","","","합자회사","Korean","ko","Hapja hoesa","","","2020-06-10","ACTV","","",""
+"BW92","Korea","KR","","","合資會社","Chinese","zh","Hapja hoesa","","","2020-06-10","ACTV","","",""
 
-"Korea","KR","","","합명회사","Korean","ko","Hapmyeong hoesa","",""
-"Korea","KR","","","合名會社","Chinese","zh","Hapmyeong hoesa","",""
+"AXEQ","Korea","KR","","","합명회사","Korean","ko","Hapmyeong hoesa","","","2020-06-10","ACTV","","",""
+"AXEQ","Korea","KR","","","合名會社","Chinese","zh","Hapmyeong hoesa","","","2020-06-10","ACTV","","",""
 
 KV:
 "Kosovo","KV","","","Biznesi Individual","Albanian","al","Biznesi Individual","B.I.",""
@@ -615,10 +615,10 @@ KW:
 "Kuwait","KW","","","Kuwaiti Joint Stock Company","English","en","Kuwaiti Joint Stock Company","K.S.C. with close;K.S.C. with closed;K.S.C.",""
 
 KY:
-"Cayman Islands","KY","","","Limited Partnership","English","en","Limited Partnership","L.P.",""
-"Cayman Islands","KY","","","Segregated Portfolio Company","English","en","Segregated Portfolio Company","S.P.C.",""
+"XAQA","Cayman Islands","KY","","","limited partnership","English","en","Limited Partnership","L.P.","","2020-06-10","ACTV","","",""
+"MP7S","Cayman Islands","KY","","","segregated portfolio company","English","en","Segregated Portfolio Company","S.P.C.","","2020-06-10","ACTV","","",""
 "Cayman Islands","KY","","","Trust","English","en","Trust","Trust;Trustee",""
-"Cayman Islands","KY","","","Limited Liability Company","English","en","Limited Liability Company","L.L.C.",""
+"MPUG","Cayman Islands","KY","","","limited liability company","English","en","Limited Liability Company","L.L.C.","","2020-06-10","ACTV","","",""
 
 KZ:
 "Kazakhstan","KZ","","","Товарищество с ограниченной ответственностью","Kazakh","kk","Tovarishchestvo s ogranichennoy otvetstvennostyu","TOO","TOO"
@@ -650,27 +650,27 @@ LC:
 
 LI:
 "1DGT","Liechtenstein","LI","","","Registered trust entreprise","English","en","Registered trust entreprise","Trust reg.","","2017-11-30","ACTV","","",""
-"Liechtenstein","LI","","","European Economic Interest Grouping","English","en","European Economic Interest Grouping","E.E.I.G.",""
+"K98U","Liechtenstein","LI","","","European Economic Interest Grouping","English","en","European Economic Interest Grouping","E.E.I.G.","","2017-11-30","ACTV","","",""
 "Liechtenstein","LI","","","Liechtenstein venture cooperative","English","en","Liechtenstein venture cooperative","L.V.C.",""
 "Liechtenstein","LI","","","Company limited by shares","English","en","Company limited by shares","",""
 "Liechtenstein","LI","","","Establishment","English","en","Establishment","Ets.",""
-"Liechtenstein","LI","","","European Company","English","en","European Company","",""
+"WAK8","Liechtenstein","LI","","","European Company","English","en","European Company","","","2017-11-30","ACTV","","",""
 
 LK:
 "Sri Lanka","LK","","","Private Limited Company","English","en","Private Limited Company","Pvt. Ltd. Co.;P.L.C.",""
 
-LI:
-"Liberia","LI","","","Private Limited Company","English","en","Private Limited Company","Ltd.",""
-"Liberia","LI","","","Limited Liability Company","English","en","Limited Liability Company","L.L.C.",""
+LR:
+"Liberia","LR","","","Private Limited Company","English","en","Private Limited Company","Ltd.",""
+"Liberia","LR","","","Limited Liability Company","English","en","Limited Liability Company","L.L.C.",""
 
 LS:
 "Lesotho","LS","","","Proprietary Limited Company","English","en","Proprietary Limited Company","Pty. Ltd.",""
 
 LT:
-"SFYA","Lithuania","LT","","","Mažosios bendrijos;Mažoji bendrija","Lithuanian","lt","Mažosios bendrijos;Mažoji bendrija","MB","","2017-11-30","ACTV","","",""
-"DLCX","Lithuania","LT","","","Tikroji ūkinė bendrija","Lithuanian","lt","Tikroji ūkinė bendrija","TUB","","2017-11-30","ACTV","","",""
+"SFYA","Lithuania","LT","","","Mažosios bendrijos","Lithuanian","lt","Mažosios bendrijos;Mažoji bendrija","MB","","2017-11-30","ACTV","","",""
+"DLCX","Lithuania","LT","","","Tikrosios ūkinės bendrijos","Lithuanian","lt","Tikroji ūkinė bendrija","TUB","","2017-11-30","ACTV","","",""
 "Lithuania","LT","","","Individuali veikla","Lithuanian","lt","Individuali veikla","",""
-"KWBA","Lithuania","LT","","","Viešosios įstaigos;Viešoji įstaiga","Lithuanian","lt","Viešosios įstaigos","VS;VšĮ","","2017-11-30","ACTV","","",""
+"KWBA","Lithuania","LT","","","Viešosios įstaigos","Lithuanian","lt","Viešosios įstaigos","VS;VšĮ","","2017-11-30","ACTV","","",""
 
 LU:
 "DVXS","Luxembourg","LU","","","Société à responsabilité limitée","French","fr","Société à responsabilité limitée","sàrl;SARL","","2017-11-30","ACTV","","",""
@@ -730,7 +730,7 @@ MG:
 
 MH:
 "Marshall Islands","MH","","","Private Limited Company","English","en","Private Limited Company","Ltd.",""
-"Marshall Islands","MH","","","Limited Liability Company","English","en","Limited Liability Company","L.L.C.",""
+"EZL8","Marshall Islands","MH","","","Limited Liability Company","English","en","Limited Liability Company","L.L.C.","","2020-06-10","ACTV","","",""
 
 MK:
 "North Macedonia","MK","","","Друштво со ограничена одговорност основано од едно лице","Macedonian","mk","Društvo so Ograničena Odgovornost od Edno Lice","Д.О.О.Е.Л.","D.O.O.E.L.;DOOEL"
@@ -776,18 +776,18 @@ MX:
 "Mexico","MX","","","Sociedad Anónima de Capital Variable","Spanish","es","Sociedad Anónima de Capital Variable","S.A. de C.V.;SA de CV",""
 "Mexico","MX","","","Sociedad Anónima","Spanish","es","Sociedad Anónima","S.A.",""
 "Mexico","MX","","","Sociedad en Comandita Simple","Spanish","es","Sociedad  en Comandita Simple","S.C.;S. en C.",""
-"Mexico","MX","","","Sociedad de Responsabilidad Limitada","Spanish","es","Sociedad de Responsabilidad Limitada","S.R.L.;S. de R.L.;S de RL",""
-"Mexico","MX","","","Sociedad de Responsabilidad Limitada de Capital Variable","Spanish","es","Sociedad de Responsabilidad Limitada de Capital Variable","S. de R.L. de C.V.;S de RL de CV",""
+"449I","Mexico","MX","","","Sociedad de responsabilidad limitada","Spanish","es","Sociedad de Responsabilidad Limitada","S.R.L.;S. de R.L.;S de RL","","2020-06-10","ACTV","","",""
+"XLVZ","Mexico","MX","","","Sociedad de responsabilidad limitada de capital variable","Spanish","es","Sociedad de Responsabilidad Limitada de Capital Variable","S. de R.L. de C.V.;S de RL de CV","","2020-06-10","ACTV","","",""
 "Mexico","MX","","","Sociedad de producción rural de responsabilidad limitada","Spanish","es","Sociedad de producción rural de responsabilidad limitada","S.P.R.R.L.",""
-"Mexico","MX","","","Sociedad de producción rural de responsabilidad limitada de Capital variable","Spanish","es","Sociedad de producción rural de responsabilidad limitada de Capital variable","S.P.R.R.L. de C.V.;SPRRL de CV",""
+"761Z","Mexico","MX","","","Sociedad de producción rural de responsabilidad limitada de capital variable","Spanish","es","Sociedad de producción rural de responsabilidad limitada de Capital variable","S.P.R.R.L. de C.V.;SPRRL de CV","","2020-11-19","ACTV","","",""
 "Mexico","MX","","","Y compania;Y sucesores","Spanish","es","Y compania;Y sucesores","",""
-"Mexico","MX","","","Sociedad en Comandita por Acciones","Spanish","es","Sociedad en Comandita por Acciones","S.C.A.;S. en C. por A.",""
-"Mexico","MX","","","Sociedad Anónima Bursátil","Spanish","es","Sociedad Anónima Bursátil","S.A.B.",""
-"Mexico","MX","","","Sociedad Anónima Promotora de Inversión","Spanish","es","Sociedad Anónima Promotora de Inversión","S.A.P.I.",""
+"A2A8","Mexico","MX","","","Sociedad en comandita por acciones","Spanish","es","Sociedad en Comandita por Acciones","S.C.A.;S. en C. por A.","","2020-06-10","ACTV","","",""
+"GW1T","Mexico","MX","","","Sociedad anónima bursátil","Spanish","es","Sociedad Anónima Bursátil","S.A.B.","","2020-06-10","ACTV","","",""
+"TPJZ","Mexico","MX","","","Sociedad anónima promotora de inversión","Spanish","es","Sociedad Anónima Promotora de Inversión","S.A.P.I.","","2020-06-10","ACTV","","",""
 
 MY:
-"Malaysia","MY","","","Sendirian Berhad","Malay","ms","Sendirian Berhad","Sdn. Bhd.",""
-"Malaysia","MY","","","Berhad","Malay","ms","Berhad","Bhd.",""
+"XEOV","Malaysia","MY","","","Sendirian Berhad","Malay","ms","Sendirian Berhad","Sdn. Bhd.","","2020-06-10","ACTV","","",""
+"7OYN","Malaysia","MY","","","Berhad","Malay","ms","Berhad","Bhd.","","2020-06-10","ACTV","","",""
 "Malaysia","MY","","","Perkongsian Liabiliti Terhad","Malay","ms","Perkongsian Liabiliti Terhad","P.L.T.;Plt.",""
 
 MZ:
@@ -820,7 +820,7 @@ NI:
 NO:
 "Norway","NO","","","Selskap med delt ansvar","Norwegian","no","Selskap med delt ansvar","DA",""
 "Norway","NO","","","Helseforetak","Norwegian","no","Helseforetak","HF",""
-"Norway","NO","","","Norskregistrert utenlandsk foretak","Norwegian","no","Norskregistrert utenlandsk foretak","NUF",""
+"4ZRR","Norway","NO","","","Norskregistrert utenlandsk foretak","Norwegian","no","Norskregistrert utenlandsk foretak","NUF","","2017-11-30","ACTV","","",""
 "Norway","NO","","","Regionalt helseforetak","Norwegian","no","Regionalt helseforetak","RHF",""
 "Norway","NO","","","Ungdomsbedrift","Norwegian","no","Ungdomsbedrift","",""
 
@@ -838,22 +838,22 @@ OM:
 
 PA:
 
-"Panama","PA","","","Sociedad de Responsabilidad Limitada","Spanish","es","Sociedad de Responsabilidad Limitada","S.L.;S.R.L.",""
+"JS13","Panama","PA","","","Sociedad de Responsabilidad Limitada","Spanish","es","Sociedad de Responsabilidad Limitada","S.L.;S.R.L.","","2020-06-10","ACTV","","",""
 
-"Panama","PA","","","Sociedad Anònima","Spanish","es","Sociedad Anonima","S.A.",""
+"6TPA","Panama","PA","","","Sociedad Anónima","Spanish","es","Sociedad Anonima","S.A.","","2020-06-10","ACTV","","",""
 "Panama","PA","","","Corporation;Incorporated;Incorporated Corporation","English","en","Corporation;Incorporated;Incorporated Corporation","Corp.;Inc.;Inc. Corp.",""
 
-"Panama","PA","","","Fundacion de Interes Privado","Spanish","es","Fundacion de Interes Privado","F.I.P.",""
-"Panama","PA","","","Private Interest Foundation","English","en","Private Interest Foundation","P.I.F.",""
+"UNCO","Panama","PA","","","Fundación de Interés Privado","Spanish","es","Fundacion de Interes Privado","F.I.P.","","2020-06-10","ACTV","","",""
+"UNCO","Panama","PA","","","Private Interest Foundation","English","en","Private Interest Foundation","P.I.F.","","2020-06-10","ACTV","","",""
 
 "Panama","PA","","","Proprietary Limited Company","English","en","Proprietary Limited Company","Pty. Ltd.",""
 "Panama","PA","","","International Business Corporation","English","en","International Business Corporation","I.B.C.",""
 
 PE:
-"Peru","PE","","","Sociedad Anónima Cerrada","Spanish","es","Sociedad Anónima Cerrada","S.A.C.",""
-"Peru","PE","","","Empresa Individual de Responsabilidad Limitada","Spanish","es","Empresa Individual de Responsabilidad Limitada","E.I.R.L.",""
+"CHX6","Peru","PE","","","Sociedad Anónima Cerrada","Spanish","es","Sociedad Anónima Cerrada","S.A.C.","","2020-06-10","ACTV","","",""
+"H8G2","Peru","PE","","","Empresa Individual de Responsabilidad Limitada","Spanish","es","Empresa Individual de Responsabilidad Limitada","E.I.R.L.","","2020-06-10","ACTV","","",""
 "Peru","PE","","","Sociedad de Responsabilidad Limitada","Spanish","es","Sociedad de Responsabilidad Limitada","S.L.;S.R.L.",""
-"Peru","PE","","","Sociedad Anónima Abiert","Spanish","es","Sociedad Anónima Abiert","S.A.A.",""
+"PKRY","Peru","PE","","","Socieda Anónima Abierta","Spanish","es","Sociedad Anónima Abiert","S.A.A.","","2020-06-10","ACTV","","",""
 
 PG:
 "Papua New Guinea","PG","","","Proprietary Limited Company","English","en","Proprietary Limited Company","Pty. Ltd.",""
@@ -870,7 +870,7 @@ PK:
 "88OX","Pakistan","PK","","","Private Limited Company (Single member)","English","en","Private Limited Company (Single member)","SMC;SMC Pvt","","2017-11-30","ACTV","","",""
 
 PL:
-"O7XB","Poland","PL","","","spółki z ograniczoną odpowiedzialnością","Polish","pl","spółki z ograniczoną odpowiedzialnością","sp. z o.o.;sp zoo","","2017-11-30","ACTV","","",""
+"O7XB","Poland","PL","","","spółka z ograniczoną odpowiedzialnością","Polish","pl","spółki z ograniczoną odpowiedzialnością","sp. z o.o.;sp zoo","","2017-11-30","ACTV","","",""
 "Poland","PL","","","jednoosobowa działalność gospodarcza","Polish","pl","jednoosobowa działalność gospodarcza","",""
 
 I see spółka and not spółki ?
@@ -879,7 +879,7 @@ PS:
 "Palestine","PS","","","Limited Liability Company","English","en","Limited Liability Company","L.L.C.",""
 
 PT:
-"Portugal","PT","","","Associação Complementar de Empresas","Portuguese","pt","Associação Complementar de Empresas","A.C.E.",""
+"YMLD","Portugal","PT","","","Agrupamento Complementar de Empresas","Portuguese","pt","Associação Complementar de Empresas","A.C.E.","","2017-11-30","ACTV","","",""
 "Portugal","PT","","","Sociedade Gestora de Participações Sociais","Portuguese","pt","Sociedade Gestora de Participações Sociais","S.G.P.S.",""
 
 PW:
@@ -887,11 +887,11 @@ PW:
 "Palau","PW","","","Private Limited Company","English","en","Private Limited Company","Ltd.",""
 
 PY:
-"Paraguay","PY","","","Sociedad Anónima","Spanish","es","Sociedad Anónima","S.A.",""
-"Paraguay","PY","","","Sociedad de Responsabilidad Limitada","Spanish","es","Sociedad de Responsabilidad Limitada","S.L.;S.R.L.",""
+"IJAO","Paraguay","PY","","","Sociedad Anonima","Spanish","es","Sociedad Anónima","S.A.","","2020-06-10","ACTV","","",""
+"K08V","Paraguay","PY","","","Sociedad De Responsabilidad Limitada","Spanish","es","Sociedad de Responsabilidad Limitada","S.L.;S.R.L.","","2020-06-10","ACTV","","",""
 "Paraguay","PY","","","Cooperativa","Spanish","es","Cooperativa","Coop.",""
 "Paraguay","PY","","","Sociedad Anónima Comercial Industrial","Spanish","es","Sociedad Anónima Comercial Industrial","S.A.C.I",""
-"Paraguay","PY","","","Empresa Individual de Responsabilidad Limitada","Spanish","es","Empresa Individual de Responsabilidad Limitada","E.I.R.L.",""
+"48X2","Paraguay","PY","","","Empresa Unipersonal De Responsabilidad Limitada","Spanish","es","Empresa Individual de Responsabilidad Limitada","E.I.R.L.","","2020-06-10","ACTV","","",""
 
 QA:
 "Qatar","QA","","","With limited liability","English","en","With limited liability","W.L.L.",""
@@ -905,7 +905,7 @@ Qatari Shareholding Company Closed ? But exists with pqsc so is it close or publ
 RO:
 "Romania","RO","","","Societate cu răspundere limitată-Debutant","Romanian","ro","Societate cu răspundere limitată-Debutant","SRL-D",""
 "Romania","RO","","","Societatea cu răspundere limitată cu proprietar unic","Romanian","ro","Societatea cu răspundere limitată cu proprietar unic","SRL cu proprietar unic",""
-"Romania","RO","","","Economic Interest Group","English","en","Economic Interest Group","E.I.C.",""
+"EFBR","Romania","RO","","","Economic Interest Group","English","en","Economic Interest Group","E.I.C.","","2017-11-30","ACTV","","",""
 
 RS:
 "Serbia","RS","","","деоничарско друштво;деоничко друштво","Serbian","sr","deoničarsko društvo;deoničko društvo","д.д.","d.d."
@@ -984,8 +984,8 @@ SV:
 "El Salvador","SV","","","Sociedad en comandita por accionnes","Spanish","es","Sociedad en comandita por accionnes","S. en C.A.;S.C.A.",""
 
 SX:
-"Sint Maarten","SX","","","Naamloze vennootschap","Dutch","nl","Naamloze vennootschap","N.V.",""
-"Sint Maarten","SX","","","Besloten vennootschap","Dutch","nl","Besloten vennootschap","B.V.",""
+"SXX9","Sint Maarten","SX","","","naamloze vennootschap","Dutch","nl","Naamloze vennootschap","N.V.","","2020-06-10","ACTV","","",""
+"2CC3","Sint Maarten","SX","","","besloten vennootschap","Dutch","nl","Besloten vennootschap","B.V.","","2020-06-10","ACTV","","",""
 
 SY:
 "Syria","SY","","","Limited Liability Company","English","en","Limited Liability Company","L.L.C.",""
@@ -1018,7 +1018,7 @@ It appears as Public Company Limited and not Public Limited Company as in every 
 TJ:
 "Tajikistan","TJ","","","Close Joint Stock Company","English","en","Close Joint Stock Company","C.J.S.C.",""
 
-"TM":
+TL:
 "Timor-Leste","TM","","","Sociedade limitada","Portuguese","pt","Sociedade limitada","Lda.",""
 "Timor-Leste","TM","","","Sociedade Unipessoal limitada","Portuguese","pt","Sociedade Unipessoal limitada","Unipessoal Lda.",""
 "Timor-Leste","TM","","","Sociedade anónima","Portuguese","pt","Sociedade anonima","S.A.",""

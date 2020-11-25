@@ -7,7 +7,7 @@ from typing import Sequence, Union
 from functools import singledispatch
 
 
-__version__ = 0, 0, 10
+__version__ = 0, 0, 11
 __all__ = 'Elf',
 
 

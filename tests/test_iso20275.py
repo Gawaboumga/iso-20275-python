@@ -37,7 +37,7 @@ class TestElf(unittest.TestCase):
                 self.assertEqual(elf, getattr(value, 'elf'))
 
     def test_number_of_elf(self):
-        self.assertEqual(len(Elf), 2867)
+        self.assertEqual(len(Elf), 2913)
 
     def test_254M_multiple_values(self):
         self.assertEqual(len(Elf['254M']), 2)

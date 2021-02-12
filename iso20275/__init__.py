@@ -7,7 +7,7 @@ from typing import Sequence, Union
 from functools import singledispatch
 
 
-__version__ = 0, 0, 12
+__version__ = 0, 0, 13
 __all__ = 'Elf',
 
 
@@ -169,10 +169,10 @@ def get_csv_paths(newest=None, cleaned=None, additional=None, timestamp=None) ->
     results = list(results)
 
     if timestamp:
-       results = (r for r in results if r[2] == timestamp)
+        results = (r for r in results if r[2] == timestamp)
     if newest:
-       results = sorted(results, key=lambda r: r[2], reverse=True)
-       results = (results[0],) if cleaned else results[:3]
+        results = sorted(results, key=lambda r: r[2], reverse=True)
+        results = (results[0],) if cleaned else results[:3]
 
     return tuple((r[-1] for r in results))
 
@@ -183,7 +183,7 @@ class MetaElf(type):
         elfclass = type.__new__(cls, name, bases, clsdct)
 
         # by default, the latest cleaned CSV source is used
-        elfclass._codes = read_entries(get_csv_paths(newest=True, cleaned=True, additional=True)[0])
+        elfclass._codes = read_entries(get_csv_paths(newest=True, cleaned=True, additional=False)[0])
         return elfclass
 
     def __getitem__(cls, key):

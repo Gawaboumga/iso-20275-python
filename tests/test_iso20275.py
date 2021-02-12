@@ -67,6 +67,15 @@ class TestElf(unittest.TestCase):
         self.assertEqual(Elf['C7TI'][0].local_name, 'Ассоциации (союзы) садоводческих, огороднических и дачных некоммерческих объединений')
         self.assertEqual(Elf['C7TI'][0].transliterated_name, 'Assotsiatsii (soyuzy) sadovodcheskikh, ogorodnicheskikh i dachnykh nekommercheskikh ob"yedineniy')
 
+    def test_to_load_different_versions(self):
+        timestamps = ['2017-11-30', '2019-11-06', '2020-06-10', '2020-11-19']
+        with_additional = [timestamps[1], timestamps[3]]
+        for timestamp in timestamps:
+             Elf.load(cleaned=False, additional=False, timestamp=timestamp)
+             Elf.load(cleaned=True, additional=False, timestamp=timestamp)
+             if timestamp in with_additional:
+                Elf.load(cleaned=True, additional=True, timestamp=timestamp)
+
 
 if __name__ == '__main__':
     unittest.main()

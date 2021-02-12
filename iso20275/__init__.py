@@ -7,7 +7,7 @@ from typing import Sequence, Union
 from functools import singledispatch
 
 
-__version__ = 0, 0, 11
+__version__ = 0, 0, 12
 __all__ = 'Elf',
 
 
@@ -154,7 +154,7 @@ def get_csv_paths(newest=None, cleaned=None, additional=None, timestamp=None) ->
 
     csvpaths = Path(__file__).resolve().parent.glob('*.csv')
     tested = ((re.match(rgx, csvpath.name), csvpath) for csvpath in csvpaths)
-    results = ((m.group('c'), m.group('a'), m.group('t'), csvpath) for m, csvpath in tested if m)
+    results = list((m.group('c'), m.group('a'), m.group('t'), csvpath) for m, csvpath in tested if m)
 
     if additional is True:
         if cleaned is True:
@@ -166,6 +166,7 @@ def get_csv_paths(newest=None, cleaned=None, additional=None, timestamp=None) ->
             results = (r for r in results if r[0] and not r[1])
         elif cleaned is False:
             results = (r for r in results if not r[0] and not r[1])
+    results = list(results)
 
     if timestamp:
        results = (r for r in results if r[2] == timestamp)

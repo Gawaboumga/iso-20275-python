@@ -73,7 +73,7 @@ which version you would like to use explicitly.
 
 .. code:: python
 
-    from iso20275 import ELF
+    from iso20275 import Elf
     len(Elf['254M']) # 2 entries for this specific entity.
     Elf['254M'][0].local_name # '私人股份有限公司' for the Chinese entry.
     Elf['254M'][1].local_name # Private company limited by shares for the English entry.

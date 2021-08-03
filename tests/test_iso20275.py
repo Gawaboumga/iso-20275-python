@@ -50,6 +50,9 @@ class TestElf(unittest.TestCase):
         self.assertEqual(Elf['254M'][1].alpha2, 'HK')
         self.assertEqual(Elf['254M'][1].transliterated_name, 'Private company limited by shares')
 
+    def test_F0A6_exists(self):
+        self.assertTrue(len(Elf) > 0)
+
     def test_str(self):
         self.assertEqual(str(Elf['254M'][0]), '254M: 私人股份有限公司')
         self.assertEqual(str(Elf['254M'][0].local_name), '私人股份有限公司')

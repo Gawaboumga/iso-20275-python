@@ -7,7 +7,7 @@ from typing import Sequence, Union
 from functools import singledispatch
 
 
-__version__ = 0, 0, 14
+__version__ = 0, 0, 15
 __all__ = 'Elf',
 
 
@@ -183,7 +183,7 @@ class MetaElf(type):
         elfclass = type.__new__(cls, name, bases, clsdct)
 
         # by default, the latest cleaned CSV source is used
-        elfclass._codes = read_entries(get_csv_paths(newest=True, cleaned=True, additional=False)[0])
+        elfclass._codes = read_entries(get_csv_paths(newest=True, cleaned=True, additional=True)[0])
         return elfclass
 
     def __getitem__(cls, key):

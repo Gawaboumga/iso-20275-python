@@ -126,8 +126,7 @@ Modification:
 - Change in X0SX: ``tksz,;hsz.`` is now ``tksz,;tksz.;hsz.``
 - Change in HBQK: Addition of abbreviations: ``AIF - Sub scheme;AIF Scheme;AIF``.
 - Change in JKJX and K361: Replace ``/`` with ``;``.
-- Change in 3AZY, 3S6E, 4VD7, 6CHY, CVH6, D2I2, GLN8, IAP3, IQR2, JFET, R0B6, TUE5, YX4E, Z2FQ:
- Add CUMA, SDIS, PETR, SAS, SAFER, SIVOM, CIAS, SIVU, SICA, SPFPL SA à directoire, GIE, OPHLM, SCPI, GIP abbreviations respectively.
+- Change in 3AZY, 3S6E, 4VD7, 6CHY, CVH6, D2I2, GLN8, IAP3, IQR2, JFET, R0B6, TUE5, YX4E, Z2FQ: Add CUMA, SDIS, PETR, SAS, SAFER, SIVOM, CIAS, SIVU, SICA, SPFPL SA à directoire, GIE, OPHLM, SCPI, GIP abbreviations respectively.
 - Remove double spaces in EPG7, S2E3, DBU3, LBPW, ZJTK, JKJX, K361, DBU3, LBPW and B3JS.
 - Change in FF1D: Addition of abbreviations ``PULC;UC``.
 - Change in KMFX: Addition of abbreviations ``ULC;UC``.

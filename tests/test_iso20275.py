@@ -37,7 +37,7 @@ class TestElf(unittest.TestCase):
                 self.assertEqual(elf, getattr(value, 'elf'))
 
     def test_number_of_elf(self):
-        self.assertEqual(len(Elf), 2913)
+        self.assertEqual(len(Elf), 3274)
 
     def test_254M_multiple_values(self):
         self.assertEqual(len(Elf['254M']), 2)
@@ -71,7 +71,7 @@ class TestElf(unittest.TestCase):
         self.assertEqual(Elf['C7TI'][0].transliterated_name, 'Assotsiatsii (soyuzy) sadovodcheskikh, ogorodnicheskikh i dachnykh nekommercheskikh ob"yedineniy')
 
     def test_to_load_different_versions(self):
-        timestamps = ['2017-11-30', '2019-11-06', '2020-06-10', '2020-11-19']
+        timestamps = ['2017-11-30', '2019-11-06', '2020-06-10', '2020-11-19', '2021-09-23']
         with_additional = [timestamps[1], timestamps[3]]
         for timestamp in timestamps:
              Elf.load(cleaned=False, additional=False, timestamp=timestamp)

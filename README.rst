@@ -126,7 +126,19 @@ Modification:
 - Change in X0SX: ``tksz,;hsz.`` is now ``tksz,;tksz.;hsz.``
 - Change in HBQK: Addition of abbreviations: ``AIF - Sub scheme;AIF Scheme;AIF``.
 - Change in JKJX and K361: Replace ``/`` with ``;``.
+- Change in 3AZY, 3S6E, 4VD7, 6CHY, CVH6, D2I2, GLN8, IAP3, IQR2, JFET, R0B6, TUE5, YX4E, Z2FQ:
+ Add CUMA, SDIS, PETR, SAS, SAFER, SIVOM, CIAS, SIVU, SICA, SPFPL SA à directoire, GIE, OPHLM, SCPI, GIP abbreviations respectively.
+- Remove double spaces in EPG7, S2E3, DBU3, LBPW, ZJTK, JKJX, K361, DBU3, LBPW and B3JS.
+- Change in FF1D: Addition of abbreviations ``PULC;UC``.
+- Change in KMFX: Addition of abbreviations ``ULC;UC``.
+- Change in URQH: Addition of abbreviations ``PUC;UC``.
 - ``México`` has been replaced by ``Mexico``.
+- Change in Q9Y1: Addition of abbreviation ``IBC``.
+- Change in X2X1: Addition of abbreviations ``LP;L.P.``.
+- Change in 7ZMX: Addition of abbreviation ``AG``.
+- Change in OA6N: Addition of abbreviation ``SA``.
+- Change in QFYC: Addition of abbreviation ``EIRL``.
+- Change in P5JT and QNWW: Transliteration is now: ``Evropaïkós Ómilos Oikonomikoú Skopoú``.
 - Trimming values.
 
 Modified file with additional legal forms (Elf with additional legal forms)
@@ -275,6 +287,8 @@ Additions:
 Deprecated:
 
 - Puerto rico: All existing ELF codes for Puerto Rico replaced with new codes to solve situation with incorrect pairing of the same legal form in 2 languages.
+
+For the following updates of the standard, a list of changes is written on the main site: https://www.gleif.org/en/about-lei/code-lists/iso-20275-entity-legal-forms-code-list/
 
 Written by `Youri Hubaut <https://github.com/Gawaboumga>`__.
 Distributed under MIT license.

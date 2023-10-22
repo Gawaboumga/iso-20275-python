@@ -117,6 +117,8 @@ Modification:
 
 - ``’`` was replaced by ``'`` at the exception of the local name of JOZN.
 - ``（`` was replaced by ``(`` and ``）`` by ``)`` in transliterated name (for chinese companies).
+- `` `` (NO-BREAK SPACE 0xa0) was replaced by `` `` (space).
+- Fusion of the two X0SD.
 - Parenthesis have been normalized, one space before opening parenthesis and one after the closing one. This concerns essentially pakistanese companies: 	4XMS, 7IYW, 88OX, MOI8, QR25  and RKYF.
 - Change in 6W6X: ``Co-opLtd.`` is now ``Co-op Ltd.``
 - Change in 2DGO and EULU: Replace ``"""`` by ``"``
@@ -131,14 +133,12 @@ Modification:
 - Change in FF1D: Addition of abbreviations ``PULC;UC``.
 - Change in KMFX: Addition of abbreviations ``ULC;UC``.
 - Change in URQH: Addition of abbreviations ``PUC;UC``.
-- ``México`` has been replaced by ``Mexico``.
 - Change in Q9Y1: Addition of abbreviation ``IBC``.
 - Change in X2X1: Addition of abbreviations ``LP;L.P.``.
 - Change in 7ZMX: Addition of abbreviation ``AG``.
-- Change in OA6N: Addition of abbreviation ``SA``.
 - Change in QFYC: Addition of abbreviation ``EIRL``.
 - Change in P5JT and QNWW: Transliteration is now: ``Evropaïkós Ómilos Oikonomikoú Skopoú``.
-- Trimming values.
+- Trimming values, notably: ``Azerbaijani `` was replaced by ``Azerbaijani``.
 
 Modified file with additional legal forms (Elf with additional legal forms)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
